@@ -1,0 +1,9981 @@
+[
+  {
+    "entities": [
+      {
+        "head": "bottle",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "toy",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "bottle",
+        "object": "toy"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "clouds",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "shoes",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "sole",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "shoes",
+        "relation": "right",
+        "object": "sole"
+      },
+      {
+        "relation": "left",
+        "subject": "clouds",
+        "object": "shoes"
+      },
+      {
+        "relation": "below",
+        "subject": "clouds",
+        "object": "sole"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "desk lamp",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "sweater",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "desk lamp",
+        "object": "sweater"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "floor",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "rubber band",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "rubber band",
+        "relation": "above",
+        "object": "floor"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "table",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "towel",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "towel",
+        "object": "table"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "dress",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "car",
+        "object": "dress"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "ball",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "wallet",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "ball",
+        "object": "wallet"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "towel",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "towel",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "rug",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "wallet",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "rug",
+        "object": "wallet"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "clouds",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "cutlery",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "clouds",
+        "object": "cutlery"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "door",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "jar",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "door",
+        "object": "jar"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "belt",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "teddy bear",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "teddy bear",
+        "object": "belt"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "pillow",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "toy",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "pillow",
+        "object": "toy"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "container",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "rubber band",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "rubber band",
+        "relation": "left",
+        "object": "container"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "wallet",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "window",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "wallet",
+        "object": "window"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "desk",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "jacket",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "desk",
+        "object": "jacket"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "spoon",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "chair",
+        "object": "spoon"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "jacket",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "vase",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "jacket",
+        "object": "vase"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "rug",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "spoon",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "rug",
+        "object": "spoon"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bottle",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "jewelry",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "bottle",
+        "object": "jewelry"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "desk lamp",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "toy",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "desk lamp",
+        "object": "toy"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "phone case",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "phone case",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "rubber band",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "spoon",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "rubber band",
+        "relation": "left",
+        "object": "spoon"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "key",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "pillow",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "key",
+        "object": "pillow"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cup",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "shoes",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "shoes",
+        "object": "cup"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "door knob",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "floor",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "door knob",
+        "object": "floor"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "key",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "tire",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "key",
+        "object": "tire"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chopsticks",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "keychain",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "chopsticks",
+        "object": "keychain"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "blanket",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "jacket",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "blanket",
+        "object": "jacket"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "container",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "jar",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "container",
+        "object": "jar"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "clouds",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "table",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "clouds",
+        "object": "table"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "door knob",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "eraser",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "door knob",
+        "object": "eraser"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "tire",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "chair",
+        "object": "tire"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bag",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "vase",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "bag",
+        "object": "vase"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "blanket",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "container",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "blanket",
+        "object": "container"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "curtain",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "desk lamp",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "curtain",
+        "object": "desk lamp"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cup",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "desk lamp",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "cup",
+        "object": "desk lamp"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "sweater",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "car",
+        "object": "sweater"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "blanket",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "door knob",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "blanket",
+        "object": "door knob"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "ball",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "vase",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "ball",
+        "object": "vase"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "pants",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "toy",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "pants",
+        "object": "toy"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "key",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "shoes",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "sole",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "shoes",
+        "relation": "right",
+        "object": "sole"
+      },
+      {
+        "relation": "right",
+        "subject": "key",
+        "object": "shoes"
+      },
+      {
+        "relation": "right",
+        "subject": "key",
+        "object": "sole"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "blanket",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "door",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "blanket",
+        "object": "door"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "container",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "container",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "gloves",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "table",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "gloves",
+        "object": "table"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "shirt",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "teddy bear",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "shirt",
+        "relation": "left",
+        "object": "teddy bear"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "floor",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "shirt",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "floor",
+        "object": "shirt"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bag",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "bag",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bag",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "pants",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "bag",
+        "object": "pants"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "pants",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "rug",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "pants",
+        "object": "rug"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "spoon",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "vase",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "spoon",
+        "object": "vase"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "eraser",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "gloves",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "eraser",
+        "object": "gloves"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "fork",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "tire",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "fork",
+        "object": "tire"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "container",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "fork",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "container",
+        "object": "fork"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "belt",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "table",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "belt",
+        "object": "table"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bottle",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "floor",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "bottle",
+        "object": "floor"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "door knob",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "pillow",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "door knob",
+        "object": "pillow"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "ball",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "curtain",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "ball",
+        "object": "curtain"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "blanket",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "table",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "blanket",
+        "object": "table"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bag",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "toy",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "toy",
+        "object": "bag"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bag",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "phone case",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "phone case",
+        "object": "bag"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bottle",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "watch",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "watch",
+        "object": "bottle"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "clouds",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "key",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "key",
+        "object": "clouds"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "gloves",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "watch",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "gloves",
+        "object": "watch"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "table",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "toy",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "toy",
+        "object": "table"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "hat",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "toy",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "hat",
+        "object": "toy"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dress",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "fork",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "dress",
+        "object": "fork"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cutlery",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "mirror",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "cutlery",
+        "object": "mirror"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "belt",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "rug",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "belt",
+        "object": "rug"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "container",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "rug",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "container",
+        "object": "rug"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "cup",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "car",
+        "object": "cup"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bottle",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "tire",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "bottle",
+        "object": "tire"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "cup",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "chair",
+        "object": "cup"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "hat",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "chair",
+        "object": "hat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "desk",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "gloves",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "desk",
+        "object": "gloves"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "teddy bear",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "left",
+        "object": "teddy bear"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "pillow",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "pillow",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "pillow",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "rug",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "pillow",
+        "object": "rug"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "sweater",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "watch",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "sweater",
+        "object": "watch"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "gloves",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "hat",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "gloves",
+        "object": "hat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "curtain",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "key",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "key",
+        "object": "curtain"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "container",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "window",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "container",
+        "object": "window"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "blanket",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "hat",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "blanket",
+        "object": "hat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "blanket",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "spoon",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "blanket",
+        "object": "spoon"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bottle",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "spoon",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "spoon",
+        "object": "bottle"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "desk lamp",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "dress",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "desk lamp",
+        "object": "dress"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "blanket",
+        "quantity": "",
+        "attributes": [
+          "fluffy",
+          "fabric"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "door knob",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "pants",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "door knob",
+        "object": "pants"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chopsticks",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "rubber band",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "rubber band",
+        "relation": "left",
+        "object": "chopsticks"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "blanket",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "shoes",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "sole",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "shoes",
+        "relation": "right",
+        "object": "sole"
+      },
+      {
+        "relation": "right",
+        "subject": "blanket",
+        "object": "shoes"
+      },
+      {
+        "relation": "below",
+        "subject": "sole",
+        "object": "blanket"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "container",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "teddy bear",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "container",
+        "relation": "left",
+        "object": "teddy bear"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "desk",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "door knob",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "desk",
+        "object": "door knob"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "teddy bear",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "left",
+        "object": "teddy bear"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dress",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "jewelry",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "dress",
+        "object": "jewelry"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "ball",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "ball",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "clouds",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "rug",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "clouds",
+        "object": "rug"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "gloves",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "chair",
+        "object": "gloves"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "door",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "dress",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "door",
+        "object": "dress"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bag",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "jar",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "bag",
+        "object": "jar"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "jar",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "rubber band",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "rubber band",
+        "relation": "left",
+        "object": "jar"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "car",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cutlery",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "door",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "cutlery",
+        "object": "door"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "jar",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "knife",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "knife",
+        "object": "jar"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "ball",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "shoes",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "ball",
+        "object": "shoes"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "gloves",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "pillow",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "gloves",
+        "object": "pillow"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "blanket",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "jar",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "blanket",
+        "object": "jar"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "pillow",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "window",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "pillow",
+        "object": "window"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "jewelry box",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "key",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "key",
+        "object": "jewelry box"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "keychain",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "teddy bear",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "keychain",
+        "relation": "left",
+        "object": "teddy bear"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "rubber band",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "toy",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "rubber band",
+        "relation": "left",
+        "object": "toy"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bottle",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "jacket",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "bottle",
+        "object": "jacket"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "phone case",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "toy",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "phone case",
+        "object": "toy"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "container",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "shoes",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "sole",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "shoes",
+        "relation": "right",
+        "object": "sole"
+      },
+      {
+        "relation": "left",
+        "subject": "shoes",
+        "object": "container"
+      },
+      {
+        "relation": "left",
+        "subject": "sole",
+        "object": "container"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "belt",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "pillow",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "pillow",
+        "object": "belt"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "blanket",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "rubber band",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "rubber band",
+        "relation": "left",
+        "object": "blanket"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "door knob",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "mirror",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "door knob",
+        "object": "mirror"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "gloves",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "jar",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "gloves",
+        "object": "jar"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "shoes",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "sole",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "teddy bear",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "shoes",
+        "relation": "right",
+        "object": "sole"
+      },
+      {
+        "relation": "above",
+        "subject": "shoes",
+        "object": "teddy bear"
+      },
+      {
+        "relation": "below",
+        "subject": "sole",
+        "object": "teddy bear"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "gloves",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "knife",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "gloves",
+        "object": "knife"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chopsticks",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "cup",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chopsticks",
+        "relation": "left",
+        "object": "cup"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "rubber band",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "window",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "rubber band",
+        "relation": "left",
+        "object": "window"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "desk lamp",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "jacket",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "desk lamp",
+        "object": "jacket"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "blanket",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "pillow",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "blanket",
+        "object": "pillow"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "hat",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "mirror",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "hat",
+        "object": "mirror"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "ball",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "belt",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "ball",
+        "object": "belt"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "curtain",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "window",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "phone case",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "phone",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "curtain",
+        "relation": "above",
+        "object": "window"
+      },
+      {
+        "subject": "phone case",
+        "relation": "above",
+        "object": "phone"
+      },
+      {
+        "relation": "left",
+        "subject": "phone case",
+        "object": "curtain"
+      },
+      {
+        "relation": "left",
+        "subject": "phone",
+        "object": "curtain"
+      },
+      {
+        "relation": "above",
+        "subject": "window",
+        "object": "phone case"
+      },
+      {
+        "relation": "below",
+        "subject": "phone",
+        "object": "window"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "curtain",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "rubber band",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "rubber band",
+        "relation": "left",
+        "object": "curtain"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "fork",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "gloves",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "fork",
+        "object": "gloves"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chopsticks",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "spoon",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "chopsticks",
+        "object": "spoon"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "ball",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "spoon",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "ball",
+        "object": "spoon"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "blanket",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "fork",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "blanket",
+        "object": "fork"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "rug",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "tire",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "rug",
+        "object": "tire"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "jewelry",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "spoon",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "jewelry",
+        "object": "spoon"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "gloves",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "spoon",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "gloves",
+        "object": "spoon"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "towel",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "watch",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "towel",
+        "object": "watch"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "mirror",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "chair",
+        "object": "mirror"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "rubber band",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "table",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "rubber band",
+        "relation": "above",
+        "object": "table"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "gloves",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "gloves",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "gloves",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "toy",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "gloves",
+        "object": "toy"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "shirt",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "wallet",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "shirt",
+        "object": "wallet"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "blanket",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "pants",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "blanket",
+        "object": "pants"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "shoes",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "car",
+        "object": "shoes"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "ball",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "mirror",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "ball",
+        "object": "mirror"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "gloves",
+        "quantity": "",
+        "attributes": [
+          "leather",
+          "rubber"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "blanket",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "desk lamp",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "blanket",
+        "object": "desk lamp"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "door knob",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "gloves",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "gloves",
+        "object": "door knob"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "belt",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "bottle",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "belt",
+        "object": "bottle"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "ball",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "phone case",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "ball",
+        "object": "phone case"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "blanket",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "box",
+        "quantity": "",
+        "attributes": [
+          "jewelry",
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "blanket",
+        "object": "box"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bag",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "table",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "bag",
+        "object": "table"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "box",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "keychain",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "keychain",
+        "relation": "above",
+        "object": "box"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "floor",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "rug",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "rug",
+        "relation": "above",
+        "object": "floor"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "wooden",
+          "plastic"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "table",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "tire",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "table",
+        "object": "tire"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "keychain",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "pants",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "keychain",
+        "object": "pants"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bag",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "rug",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "bag",
+        "object": "rug"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "door",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "mirror",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "door",
+        "object": "mirror"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "blanket",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "jewelry box",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "jewelry box",
+        "relation": "left",
+        "object": "blanket"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "hat",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "sweater",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "hat",
+        "object": "sweater"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bottle",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "wallet",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "bottle",
+        "object": "wallet"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "hat",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "phone case",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "hat",
+        "object": "phone case"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "spoon",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "towel",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "spoon",
+        "object": "towel"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "eraser",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "eraser",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "spoon",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "window",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "spoon",
+        "object": "window"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "spoon",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "tire",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "spoon",
+        "object": "tire"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "shoes",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "sole",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "shoes",
+        "relation": "right",
+        "object": "sole"
+      },
+      {
+        "relation": "left",
+        "subject": "shoes",
+        "object": "car"
+      },
+      {
+        "relation": "left",
+        "subject": "sole",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cutlery",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "picture frame",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "cutlery",
+        "object": "picture frame"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "blanket",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "fork",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "blanket",
+        "object": "fork"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "jewelry",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "toy",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "jewelry",
+        "object": "toy"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cup",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "shoes",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "sole",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "shoes",
+        "relation": "right",
+        "object": "sole"
+      },
+      {
+        "relation": "below",
+        "subject": "shoes",
+        "object": "cup"
+      },
+      {
+        "relation": "left",
+        "subject": "sole",
+        "object": "cup"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "floor",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "window",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "floor",
+        "object": "window"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "shirt",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "window",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "shirt",
+        "object": "window"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "container",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "curtain",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "container",
+        "object": "curtain"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "container",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "jewelry",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "container",
+        "object": "jewelry"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "eraser",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "keychain",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "eraser",
+        "object": "keychain"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dress",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "towel",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "dress",
+        "object": "towel"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "container",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "tire",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "container",
+        "object": "tire"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "shirt",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "chair",
+        "object": "shirt"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "desk",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "fork",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "fork",
+        "object": "desk"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "jewelry",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "wallet",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "jewelry",
+        "object": "wallet"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "phone case",
+        "quantity": "",
+        "attributes": [
+          "gloves",
+          "leather",
+          "plastic"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "bag",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "key",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "key",
+        "object": "bag"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "pillow",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "tire",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "pillow",
+        "object": "tire"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "floor",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "gloves",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "gloves",
+        "object": "floor"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bag",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "bag",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "jacket",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "car",
+        "object": "jacket"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "eraser",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "picture frame",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "eraser",
+        "object": "picture frame"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "belt",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "towel",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "towel",
+        "object": "belt"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "blanket",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "cup",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "blanket",
+        "object": "cup"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "blanket",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "container",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "blanket",
+        "object": "container"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "box",
+        "quantity": "",
+        "attributes": [
+          "jewelry",
+          "wooden"
+        ]
+      },
+      {
+        "head": "fork",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "box",
+        "object": "fork"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "pillow",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "shoes",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "pillow",
+        "object": "shoes"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "jar",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "towel",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "towel",
+        "object": "jar"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "fork",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "spoon",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "fork",
+        "object": "spoon"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "ball",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "towel",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "ball",
+        "object": "towel"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "belt",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "eraser",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "eraser",
+        "object": "belt"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "jewelry",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "phone case",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "phone case",
+        "object": "jewelry"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "container",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "sweater",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "container",
+        "object": "sweater"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "rubber band",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "fabric towel",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "rubber band",
+        "relation": "left",
+        "object": "fabric towel"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dress",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "vase",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "dress",
+        "object": "vase"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "boots",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "plate",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "boots",
+        "object": "plate"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "necklace",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "sweater",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "necklace",
+        "object": "sweater"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "boots",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "sofa",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "boots",
+        "object": "sofa"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cup",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "hat",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "cup",
+        "object": "hat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bowl",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "mat",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "bowl",
+        "object": "mat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "hat",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "sweater",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "hat",
+        "object": "sweater"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bracelet",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "jacket",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "bracelet",
+        "object": "jacket"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "fork",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "sofa",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "fork",
+        "object": "sofa"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "pencils",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "scarf",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "pencils",
+        "object": "scarf"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "boots",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "cup",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "boots",
+        "object": "cup"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "hat",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "plate",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "hat",
+        "object": "plate"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cup",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "sweater",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "cup",
+        "object": "sweater"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bracelet",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "knife",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "bracelet",
+        "object": "knife"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "fork",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "necklace",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "necklace",
+        "object": "fork"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "hat",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "ring",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "hat",
+        "object": "ring"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bowl",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "scarf",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "scarf",
+        "object": "bowl"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "hat",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "scarf",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "scarf",
+        "object": "hat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "hat",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "pencils",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "pencils",
+        "object": "hat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "pencils",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "sofa",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "pencils",
+        "object": "sofa"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bowl",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "fork",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "bowl",
+        "object": "fork"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "plate",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "ring",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "plate",
+        "object": "ring"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "jacket",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "plate",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "jacket",
+        "object": "plate"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bracelet",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "hat",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "bracelet",
+        "object": "hat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "earring",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "sofa",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "earring",
+        "object": "sofa"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "sweater",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "watch",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "sweater",
+        "object": "watch"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "hat",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "plate",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "hat",
+        "object": "plate"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "knife",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "ring",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "knife",
+        "object": "ring"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "plate",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "scarf",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "plate",
+        "object": "scarf"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "sofa",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "sweater",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "sweater",
+        "object": "sofa"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cup",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "knife",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "cup",
+        "object": "knife"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "hat",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "necklace",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "necklace",
+        "object": "hat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bracelet",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "mat",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "bracelet",
+        "object": "mat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "scarf",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "sofa",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "scarf",
+        "object": "sofa"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "earring",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "jacket",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "earring",
+        "object": "jacket"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "mat",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "scarf",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "mat",
+        "object": "scarf"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "hat",
+        "quantity": "",
+        "attributes": [
+          "fluffy",
+          "leather"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "boots",
+        "quantity": "",
+        "attributes": [
+          "rubber"
+        ]
+      },
+      {
+        "head": "watch",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "boots",
+        "object": "watch"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "ring",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "sweater",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "ring",
+        "object": "sweater"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "fork",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "hat",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "fork",
+        "object": "hat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "pencils",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "plate",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "pencils",
+        "object": "plate"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bottle",
+        "quantity": "",
+        "attributes": [
+          "glass",
+          "perfume"
+        ]
+      },
+      {
+        "head": "cap",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "handkerchief",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "scent",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "bottle",
+        "relation": "right",
+        "object": "cap"
+      },
+      {
+        "subject": "scent",
+        "relation": "above",
+        "object": "handkerchief"
+      },
+      {
+        "relation": "left",
+        "subject": "bottle",
+        "object": "handkerchief"
+      },
+      {
+        "relation": "left",
+        "subject": "bottle",
+        "object": "scent"
+      },
+      {
+        "relation": "left",
+        "subject": "cap",
+        "object": "handkerchief"
+      },
+      {
+        "relation": "above",
+        "subject": "scent",
+        "object": "handkerchief"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "batter",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "counter",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "bowl",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "whisk",
+        "quantity": "",
+        "attributes": [
+          "wooden",
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "batter",
+        "relation": "above",
+        "object": "counter"
+      },
+      {
+        "subject": "bowl",
+        "relation": "above",
+        "object": "batter"
+      },
+      {
+        "subject": "whisk",
+        "relation": "above",
+        "object": "batter"
+      },
+      {
+        "relation": "above",
+        "subject": "bowl",
+        "object": "counter"
+      },
+      {
+        "relation": "above",
+        "subject": "whisk",
+        "object": "counter"
+      },
+      {
+        "relation": "above",
+        "subject": "whisk",
+        "object": "bowl"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "door",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "hook",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "keychain",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "wallet",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "hook",
+        "relation": "below",
+        "object": "door"
+      },
+      {
+        "subject": "keychain",
+        "relation": "left",
+        "object": "hook"
+      },
+      {
+        "subject": "wallet",
+        "relation": "left",
+        "object": "hook"
+      },
+      {
+        "relation": "above",
+        "subject": "keychain",
+        "object": "door"
+      },
+      {
+        "relation": "below",
+        "subject": "wallet",
+        "object": "door"
+      },
+      {
+        "relation": "left",
+        "subject": "keychain",
+        "object": "wallet"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "jar",
+        "quantity": "",
+        "attributes": [
+          "glass",
+          "hold"
+        ]
+      },
+      {
+        "head": "workbench",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "ladder",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "screws",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "shelf",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "jar",
+        "relation": "above",
+        "object": "workbench"
+      },
+      {
+        "subject": "ladder",
+        "relation": "left",
+        "object": "screws"
+      },
+      {
+        "subject": "ladder",
+        "relation": "above",
+        "object": "workbench"
+      },
+      {
+        "subject": "screws",
+        "relation": "above",
+        "object": "shelf"
+      },
+      {
+        "relation": "left",
+        "subject": "jar",
+        "object": "ladder"
+      },
+      {
+        "relation": "left",
+        "subject": "screws",
+        "object": "jar"
+      },
+      {
+        "relation": "left",
+        "subject": "jar",
+        "object": "shelf"
+      },
+      {
+        "relation": "left",
+        "subject": "screws",
+        "object": "workbench"
+      },
+      {
+        "relation": "left",
+        "subject": "shelf",
+        "object": "workbench"
+      },
+      {
+        "relation": "left",
+        "subject": "ladder",
+        "object": "shelf"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "laptop",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "table",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "student",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "library",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "left",
+        "object": "laptop"
+      },
+      {
+        "subject": "laptop",
+        "relation": "above",
+        "object": "table"
+      },
+      {
+        "subject": "student",
+        "relation": "above",
+        "object": "library"
+      },
+      {
+        "subject": "student",
+        "relation": "above",
+        "object": "chair"
+      },
+      {
+        "relation": "left",
+        "subject": "chair",
+        "object": "table"
+      },
+      {
+        "relation": "left",
+        "subject": "chair",
+        "object": "library"
+      },
+      {
+        "relation": "left",
+        "subject": "laptop",
+        "object": "student"
+      },
+      {
+        "relation": "left",
+        "subject": "laptop",
+        "object": "library"
+      },
+      {
+        "relation": "left",
+        "subject": "table",
+        "object": "student"
+      },
+      {
+        "relation": "left",
+        "subject": "table",
+        "object": "library"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "floor",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "nook",
+        "quantity": "",
+        "attributes": [
+          "reading",
+          "cozy"
+        ]
+      },
+      {
+        "head": "ottoman",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "rug",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "ottoman",
+        "relation": "below",
+        "object": "floor"
+      },
+      {
+        "subject": "rug",
+        "relation": "below",
+        "object": "floor"
+      },
+      {
+        "relation": "above",
+        "subject": "nook",
+        "object": "floor"
+      },
+      {
+        "relation": "below",
+        "subject": "nook",
+        "object": "ottoman"
+      },
+      {
+        "relation": "above",
+        "subject": "rug",
+        "object": "nook"
+      },
+      {
+        "relation": "above",
+        "subject": "rug",
+        "object": "ottoman"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dresser",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "flowers",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "stand",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "vase",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "flowers",
+        "relation": "above",
+        "object": "stand"
+      },
+      {
+        "subject": "flowers",
+        "relation": "above",
+        "object": "vase"
+      },
+      {
+        "subject": "stand",
+        "relation": "above",
+        "object": "dresser"
+      },
+      {
+        "subject": "vase",
+        "relation": "above",
+        "object": "dresser"
+      },
+      {
+        "relation": "above",
+        "subject": "flowers",
+        "object": "dresser"
+      },
+      {
+        "relation": "right",
+        "subject": "stand",
+        "object": "vase"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bowl",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "ladle",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "soup",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "spoon",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "ladle",
+        "relation": "right",
+        "object": "soup"
+      },
+      {
+        "subject": "ladle",
+        "relation": "above",
+        "object": "bowl"
+      },
+      {
+        "subject": "spoon",
+        "relation": "right",
+        "object": "soup"
+      },
+      {
+        "subject": "spoon",
+        "relation": "above",
+        "object": "bowl"
+      },
+      {
+        "relation": "right",
+        "subject": "soup",
+        "object": "bowl"
+      },
+      {
+        "relation": "above",
+        "subject": "spoon",
+        "object": "ladle"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "door",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "rack",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "shoes",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "socks",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "door",
+        "relation": "below",
+        "object": "rack"
+      },
+      {
+        "subject": "shoes",
+        "relation": "below",
+        "object": "rack"
+      },
+      {
+        "subject": "socks",
+        "relation": "below",
+        "object": "rack"
+      },
+      {
+        "relation": "below",
+        "subject": "shoes",
+        "object": "door"
+      },
+      {
+        "relation": "below",
+        "subject": "socks",
+        "object": "door"
+      },
+      {
+        "relation": "below",
+        "subject": "socks",
+        "object": "shoes"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bottle",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "picnic blanket",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "crate",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "soda",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "bottle",
+        "relation": "above",
+        "object": "picnic blanket"
+      },
+      {
+        "subject": "crate",
+        "relation": "above",
+        "object": "picnic blanket"
+      },
+      {
+        "subject": "soda",
+        "relation": "above",
+        "object": "crate"
+      },
+      {
+        "subject": "soda",
+        "relation": "above",
+        "object": "picnic blanket"
+      },
+      {
+        "relation": "above",
+        "subject": "bottle",
+        "object": "crate"
+      },
+      {
+        "relation": "above",
+        "subject": "bottle",
+        "object": "soda"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "computer",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "desk",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "light",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "lamp",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "computer",
+        "relation": "above",
+        "object": "chair"
+      },
+      {
+        "subject": "desk",
+        "relation": "right",
+        "object": "light"
+      },
+      {
+        "subject": "lamp",
+        "relation": "right",
+        "object": "light"
+      },
+      {
+        "relation": "above",
+        "subject": "chair",
+        "object": "desk"
+      },
+      {
+        "relation": "above",
+        "subject": "chair",
+        "object": "light"
+      },
+      {
+        "relation": "above",
+        "subject": "chair",
+        "object": "lamp"
+      },
+      {
+        "relation": "above",
+        "subject": "desk",
+        "object": "computer"
+      },
+      {
+        "relation": "above",
+        "subject": "light",
+        "object": "computer"
+      },
+      {
+        "relation": "above",
+        "subject": "lamp",
+        "object": "computer"
+      },
+      {
+        "relation": "above",
+        "subject": "lamp",
+        "object": "desk"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "journal",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "notebook",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "pen",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "writer",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "journal",
+        "relation": "below",
+        "object": "notebook"
+      },
+      {
+        "subject": "pen",
+        "relation": "below",
+        "object": "notebook"
+      },
+      {
+        "subject": "writer",
+        "relation": "right",
+        "object": "notebook"
+      },
+      {
+        "relation": "above",
+        "subject": "journal",
+        "object": "pen"
+      },
+      {
+        "relation": "above",
+        "subject": "journal",
+        "object": "writer"
+      },
+      {
+        "relation": "above",
+        "subject": "pen",
+        "object": "writer"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cheddar",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "sandwich",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "cheese grater",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "cutting board",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "cheddar",
+        "relation": "above",
+        "object": "sandwich"
+      },
+      {
+        "subject": "cheese grater",
+        "relation": "below",
+        "object": "cheddar"
+      },
+      {
+        "relation": "below",
+        "subject": "cheddar",
+        "object": "cutting board"
+      },
+      {
+        "relation": "left",
+        "subject": "cheese grater",
+        "object": "cheddar"
+      },
+      {
+        "relation": "left",
+        "subject": "sandwich",
+        "object": "metallic cheese grater"
+      },
+      {
+        "relation": "above",
+        "subject": "cheese grater",
+        "object": "cutting board"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "clamp",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "pipette",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "experiment",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "test tube",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "clamp",
+        "relation": "left",
+        "object": "pipette"
+      },
+      {
+        "subject": "experiment",
+        "relation": "left",
+        "object": "pipette"
+      },
+      {
+        "subject": "test tube",
+        "relation": "left",
+        "object": "pipette"
+      },
+      {
+        "relation": "left",
+        "subject": "clamp",
+        "object": "experiment"
+      },
+      {
+        "relation": "above",
+        "subject": "clamp",
+        "object": "test tube"
+      },
+      {
+        "relation": "left",
+        "subject": "experiment",
+        "object": "test tube"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "credit cards",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "counter",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "purse",
+        "quantity": "",
+        "attributes": [
+          "coin",
+          "metallic"
+        ]
+      },
+      {
+        "head": "wallet",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "credit cards",
+        "relation": "above",
+        "object": "counter"
+      },
+      {
+        "subject": "purse",
+        "relation": "above",
+        "object": "counter"
+      },
+      {
+        "subject": "wallet",
+        "relation": "left",
+        "object": "credit cards"
+      },
+      {
+        "subject": "wallet",
+        "relation": "above",
+        "object": "counter"
+      },
+      {
+        "relation": "left",
+        "subject": "credit cards",
+        "object": "purse"
+      },
+      {
+        "relation": "left",
+        "subject": "purse",
+        "object": "wallet"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bowl",
+        "quantity": "",
+        "attributes": [
+          "salad",
+          "wooden"
+        ]
+      },
+      {
+        "head": "dinner party",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "greens",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "tongs",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "greens",
+        "relation": "above",
+        "object": "bowl"
+      },
+      {
+        "subject": "greens",
+        "relation": "above",
+        "object": "tongs"
+      },
+      {
+        "relation": "above",
+        "subject": "bowl",
+        "object": "dinner party"
+      },
+      {
+        "relation": "above",
+        "subject": "bowl",
+        "object": "tongs"
+      },
+      {
+        "relation": "above",
+        "subject": "dinner party",
+        "object": "greens"
+      },
+      {
+        "relation": "above",
+        "subject": "tongs",
+        "object": "dinner party"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "noodles",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "stove",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "pot",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "spoon",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "noodles",
+        "relation": "above",
+        "object": "stove"
+      },
+      {
+        "subject": "pot",
+        "relation": "above",
+        "object": "stove"
+      },
+      {
+        "subject": "spoon",
+        "relation": "above",
+        "object": "pot"
+      },
+      {
+        "relation": "above",
+        "subject": "noodles",
+        "object": "pot"
+      },
+      {
+        "relation": "above",
+        "subject": "spoon",
+        "object": "noodles"
+      },
+      {
+        "relation": "above",
+        "subject": "spoon",
+        "object": "stove"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "frame",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "photo",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "stand",
+        "quantity": "",
+        "attributes": [
+          "nightstand",
+          "fabric",
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "frame",
+        "relation": "right",
+        "object": "photo"
+      },
+      {
+        "subject": "stand",
+        "relation": "right",
+        "object": "photo"
+      },
+      {
+        "relation": "above",
+        "subject": "frame",
+        "object": "stand"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "collar",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "windowsill",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "vase",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "cat",
+        "relation": "right",
+        "object": "collar"
+      },
+      {
+        "subject": "cat",
+        "relation": "above",
+        "object": "windowsill"
+      },
+      {
+        "subject": "windowsill",
+        "relation": "left",
+        "object": "vase"
+      },
+      {
+        "relation": "left",
+        "subject": "cat",
+        "object": "vase"
+      },
+      {
+        "relation": "left",
+        "subject": "collar",
+        "object": "windowsill"
+      },
+      {
+        "relation": "left",
+        "subject": "collar",
+        "object": "vase"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bookends",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "books",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "bookshelf",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "reader",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "bookends",
+        "relation": "left",
+        "object": "books"
+      },
+      {
+        "subject": "bookshelf",
+        "relation": "left",
+        "object": "books"
+      },
+      {
+        "subject": "reader",
+        "relation": "left",
+        "object": "books"
+      },
+      {
+        "relation": "left",
+        "subject": "bookends",
+        "object": "bookshelf"
+      },
+      {
+        "relation": "left",
+        "subject": "bookends",
+        "object": "reader"
+      },
+      {
+        "relation": "above",
+        "subject": "bookshelf",
+        "object": "reader"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "basket",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "bicycle",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "flowers",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "handlebar",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "bicycle",
+        "relation": "left",
+        "object": "basket"
+      },
+      {
+        "subject": "flowers",
+        "relation": "above",
+        "object": "handlebar"
+      },
+      {
+        "relation": "left",
+        "subject": "basket",
+        "object": "flowers"
+      },
+      {
+        "relation": "above",
+        "subject": "basket",
+        "object": "handlebar"
+      },
+      {
+        "relation": "left",
+        "subject": "bicycle",
+        "object": "flowers"
+      },
+      {
+        "relation": "left",
+        "subject": "bicycle",
+        "object": "handlebar"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "candle holder",
+        "quantity": "",
+        "attributes": [
+          "glass",
+          "candle"
+        ]
+      },
+      {
+        "head": "dining table",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "tablecloth",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "candlestick",
+        "quantity": "",
+        "attributes": [
+          "candle",
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "candle holder",
+        "relation": "above",
+        "object": "dining table"
+      },
+      {
+        "subject": "candle holder",
+        "relation": "above",
+        "object": "tablecloth"
+      },
+      {
+        "subject": "candlestick",
+        "relation": "above",
+        "object": "dining table"
+      },
+      {
+        "subject": "candlestick",
+        "relation": "above",
+        "object": "tablecloth"
+      },
+      {
+        "relation": "left",
+        "subject": "candle holder",
+        "object": "candlestick"
+      },
+      {
+        "relation": "above",
+        "subject": "dining table",
+        "object": "tablecloth"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "change",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "pouch",
+        "quantity": "",
+        "attributes": [
+          "coin",
+          "fluffy"
+        ]
+      },
+      {
+        "head": "vending machine",
+        "quantity": "",
+        "attributes": [
+          "machine",
+          "plastic"
+        ]
+      },
+      {
+        "head": "wallet",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "wallet",
+        "relation": "left",
+        "object": "change"
+      },
+      {
+        "relation": "above",
+        "subject": "change",
+        "object": "pouch"
+      },
+      {
+        "relation": "right",
+        "subject": "change",
+        "object": "vending machine"
+      },
+      {
+        "relation": "left",
+        "subject": "pouch",
+        "object": "vending machine"
+      },
+      {
+        "relation": "left",
+        "subject": "pouch",
+        "object": "wallet"
+      },
+      {
+        "relation": "left",
+        "subject": "wallet",
+        "object": "vending machine"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "magnifying glass",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "screws",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "ruler",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "workbench",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "magnifying glass",
+        "relation": "above",
+        "object": "screws"
+      },
+      {
+        "subject": "ruler",
+        "relation": "above",
+        "object": "screws"
+      },
+      {
+        "subject": "screws",
+        "relation": "above",
+        "object": "workbench"
+      },
+      {
+        "relation": "above",
+        "subject": "magnifying glass",
+        "object": "ruler"
+      },
+      {
+        "relation": "above",
+        "subject": "magnifying glass",
+        "object": "workbench"
+      },
+      {
+        "relation": "above",
+        "subject": "ruler",
+        "object": "workbench"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "notebook",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "notes",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "pen",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "presentation",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "notebook",
+        "relation": "right",
+        "object": "notes"
+      },
+      {
+        "subject": "pen",
+        "relation": "right",
+        "object": "notes"
+      },
+      {
+        "relation": "right",
+        "subject": "notebook",
+        "object": "pen"
+      },
+      {
+        "relation": "right",
+        "subject": "notebook",
+        "object": "presentation"
+      },
+      {
+        "relation": "right",
+        "subject": "notes",
+        "object": "presentation"
+      },
+      {
+        "relation": "right",
+        "subject": "pen",
+        "object": "presentation"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bed",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "collar",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "shelf",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "teddy bear",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "shelf",
+        "relation": "below",
+        "object": "bed"
+      },
+      {
+        "subject": "teddy bear",
+        "relation": "right",
+        "object": "collar"
+      },
+      {
+        "subject": "teddy bear",
+        "relation": "left",
+        "object": "shelf"
+      },
+      {
+        "relation": "below",
+        "subject": "collar",
+        "object": "bed"
+      },
+      {
+        "relation": "above",
+        "subject": "teddy bear",
+        "object": "bed"
+      },
+      {
+        "relation": "above",
+        "subject": "collar",
+        "object": "shelf"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cookie cutter",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "dough",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "rolling pin",
+        "quantity": "",
+        "attributes": [
+          "wooden",
+          "cookie",
+          "plastic"
+        ]
+      },
+      {
+        "head": "cookies",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "cookie cutter",
+        "relation": "above",
+        "object": "dough"
+      },
+      {
+        "subject": "rolling pin",
+        "relation": "above",
+        "object": "cookies"
+      },
+      {
+        "subject": "rolling pin",
+        "relation": "above",
+        "object": "dough"
+      },
+      {
+        "relation": "above",
+        "subject": "cookie cutter",
+        "object": "fluffy dough"
+      },
+      {
+        "relation": "above",
+        "subject": "cookie cutter",
+        "object": "cookies"
+      },
+      {
+        "relation": "above",
+        "subject": "dough",
+        "object": "cookies"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "fish",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "stand",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "fish tank",
+        "quantity": "",
+        "attributes": [
+          "glass",
+          "metallic"
+        ]
+      },
+      {
+        "head": "filter",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "fish",
+        "relation": "above",
+        "object": "stand"
+      },
+      {
+        "subject": "fish tank",
+        "relation": "right",
+        "object": "filter"
+      },
+      {
+        "relation": "above",
+        "subject": "fish",
+        "object": "fish tank"
+      },
+      {
+        "relation": "above",
+        "subject": "fish",
+        "object": "filter"
+      },
+      {
+        "relation": "above",
+        "subject": "stand",
+        "object": "fish tank"
+      },
+      {
+        "relation": "above",
+        "subject": "stand",
+        "object": "filter"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chopsticks",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "container",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "noodles",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "spoon",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chopsticks",
+        "relation": "above",
+        "object": "container"
+      },
+      {
+        "subject": "noodles",
+        "relation": "above",
+        "object": "container"
+      },
+      {
+        "subject": "spoon",
+        "relation": "above",
+        "object": "container"
+      },
+      {
+        "relation": "left",
+        "subject": "chopsticks",
+        "object": "noodles"
+      },
+      {
+        "relation": "left",
+        "subject": "chopsticks",
+        "object": "spoon"
+      },
+      {
+        "relation": "left",
+        "subject": "spoon",
+        "object": "noodles"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "belt",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "hook",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "mirror",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "scarf",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "belt",
+        "relation": "left",
+        "object": "hook"
+      },
+      {
+        "subject": "hook",
+        "relation": "left",
+        "object": "mirror"
+      },
+      {
+        "subject": "scarf",
+        "relation": "left",
+        "object": "hook"
+      },
+      {
+        "relation": "below",
+        "subject": "belt",
+        "object": "mirror"
+      },
+      {
+        "relation": "below",
+        "subject": "scarf",
+        "object": "belt"
+      },
+      {
+        "relation": "below",
+        "subject": "scarf",
+        "object": "mirror"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bird feeder",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "birdhouse",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "birds",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "tree",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "birds",
+        "relation": "above",
+        "object": "bird feeder"
+      },
+      {
+        "subject": "birds",
+        "relation": "above",
+        "object": "tree"
+      },
+      {
+        "relation": "above",
+        "subject": "bird feeder",
+        "object": "birdhouse"
+      },
+      {
+        "relation": "right",
+        "subject": "bird feeder",
+        "object": "tree"
+      },
+      {
+        "relation": "right",
+        "subject": "birdhouse",
+        "object": "birds"
+      },
+      {
+        "relation": "above",
+        "subject": "birdhouse",
+        "object": "tree"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bathtub",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "soap dish",
+        "quantity": "",
+        "attributes": [
+          "dish",
+          "plastic"
+        ]
+      },
+      {
+        "head": "tray",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "towel",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "soap dish",
+        "relation": "below",
+        "object": "tray"
+      },
+      {
+        "subject": "towel",
+        "relation": "below",
+        "object": "tray"
+      },
+      {
+        "subject": "tray",
+        "relation": "below",
+        "object": "bathtub"
+      },
+      {
+        "relation": "above",
+        "subject": "soap dish",
+        "object": "bathtub"
+      },
+      {
+        "relation": "above",
+        "subject": "towel",
+        "object": "bathtub"
+      },
+      {
+        "relation": "above",
+        "subject": "soap dish",
+        "object": "towel"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dinner party",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "lasagna",
+        "quantity": "",
+        "attributes": [
+          "fluffy",
+          "metallic"
+        ]
+      },
+      {
+        "head": "dish",
+        "quantity": "",
+        "attributes": [
+          "baking",
+          "glass"
+        ]
+      },
+      {
+        "head": "spoon",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dinner party",
+        "relation": "right",
+        "object": "lasagna"
+      },
+      {
+        "subject": "dish",
+        "relation": "above",
+        "object": "lasagna"
+      },
+      {
+        "subject": "spoon",
+        "relation": "above",
+        "object": "lasagna"
+      },
+      {
+        "relation": "above",
+        "subject": "dinner party",
+        "object": "dish"
+      },
+      {
+        "relation": "above",
+        "subject": "spoon",
+        "object": "dinner party"
+      },
+      {
+        "relation": "above",
+        "subject": "dish",
+        "object": "spoon"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "desk",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "documents",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "stapler",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "portfolio",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "documents",
+        "relation": "above",
+        "object": "stapler"
+      },
+      {
+        "subject": "portfolio",
+        "relation": "above",
+        "object": "desk"
+      },
+      {
+        "subject": "stapler",
+        "relation": "above",
+        "object": "desk"
+      },
+      {
+        "relation": "above",
+        "subject": "documents",
+        "object": "desk"
+      },
+      {
+        "relation": "above",
+        "subject": "documents",
+        "object": "portfolio"
+      },
+      {
+        "relation": "left",
+        "subject": "stapler",
+        "object": "portfolio"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bird",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "pole",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "birdhouse",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "window",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "bird",
+        "relation": "above",
+        "object": "pole"
+      },
+      {
+        "subject": "pole",
+        "relation": "below",
+        "object": "window"
+      },
+      {
+        "relation": "above",
+        "subject": "birdhouse",
+        "object": "bird"
+      },
+      {
+        "relation": "above",
+        "subject": "bird",
+        "object": "window"
+      },
+      {
+        "relation": "above",
+        "subject": "birdhouse",
+        "object": "pole"
+      },
+      {
+        "relation": "above",
+        "subject": "birdhouse",
+        "object": "window"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "flowers",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "windowsill",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "vase",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "watering can",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "flowers",
+        "relation": "above",
+        "object": "windowsill"
+      },
+      {
+        "subject": "vase",
+        "relation": "above",
+        "object": "windowsill"
+      },
+      {
+        "subject": "watering can",
+        "relation": "above",
+        "object": "windowsill"
+      },
+      {
+        "relation": "left",
+        "subject": "flowers",
+        "object": "vase"
+      },
+      {
+        "relation": "left",
+        "subject": "flowers",
+        "object": "watering can"
+      },
+      {
+        "relation": "left",
+        "subject": "vase",
+        "object": "watering can"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "eggs",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "pan",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "stove",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "spatula",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "eggs",
+        "relation": "above",
+        "object": "pan"
+      },
+      {
+        "subject": "pan",
+        "relation": "above",
+        "object": "stove"
+      },
+      {
+        "subject": "spatula",
+        "relation": "above",
+        "object": "stove"
+      },
+      {
+        "relation": "above",
+        "subject": "eggs",
+        "object": "stove"
+      },
+      {
+        "relation": "above",
+        "subject": "eggs",
+        "object": "spatula"
+      },
+      {
+        "relation": "above",
+        "subject": "pan",
+        "object": "spatula"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "book",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "bookworm",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "bookends",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "bookshelf",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "book",
+        "relation": "left",
+        "object": "bookworm"
+      },
+      {
+        "subject": "bookends",
+        "relation": "left",
+        "object": "book"
+      },
+      {
+        "subject": "bookshelf",
+        "relation": "left",
+        "object": "book"
+      },
+      {
+        "relation": "left",
+        "subject": "bookends",
+        "object": "bookworm"
+      },
+      {
+        "relation": "left",
+        "subject": "bookworm",
+        "object": "bookshelf"
+      },
+      {
+        "relation": "left",
+        "subject": "bookends",
+        "object": "bookshelf"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "comfort",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "desk",
+        "quantity": "",
+        "attributes": [
+          "wooden",
+          "comfortable"
+        ]
+      },
+      {
+        "head": "rug",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "lamp",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "light",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "right",
+        "object": "comfort"
+      },
+      {
+        "subject": "desk",
+        "relation": "above",
+        "object": "rug"
+      },
+      {
+        "subject": "lamp",
+        "relation": "right",
+        "object": "light"
+      },
+      {
+        "relation": "above",
+        "subject": "chair",
+        "object": "desk"
+      },
+      {
+        "relation": "above",
+        "subject": "chair",
+        "object": "rug"
+      },
+      {
+        "relation": "above",
+        "subject": "chair",
+        "object": "lamp"
+      },
+      {
+        "relation": "above",
+        "subject": "light",
+        "object": "chair"
+      },
+      {
+        "relation": "above",
+        "subject": "comfort",
+        "object": "desk"
+      },
+      {
+        "relation": "above",
+        "subject": "leather chair",
+        "object": "comfort"
+      },
+      {
+        "relation": "above",
+        "subject": "lamp",
+        "object": "comfort"
+      },
+      {
+        "relation": "above",
+        "subject": "leather chair",
+        "object": "comfort"
+      },
+      {
+        "relation": "above",
+        "subject": "lamp",
+        "object": "desk"
+      },
+      {
+        "relation": "above",
+        "subject": "light",
+        "object": "desk"
+      },
+      {
+        "relation": "above",
+        "subject": "lamp",
+        "object": "rug"
+      },
+      {
+        "relation": "above",
+        "subject": "light",
+        "object": "rug"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "plant holder",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "succulent",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "shelf",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "terrarium",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "plant holder",
+        "relation": "right",
+        "object": "succulent"
+      },
+      {
+        "subject": "succulent",
+        "relation": "above",
+        "object": "terrarium"
+      },
+      {
+        "subject": "succulent",
+        "relation": "above",
+        "object": "shelf"
+      },
+      {
+        "relation": "above",
+        "subject": "plant holder",
+        "object": "shelf"
+      },
+      {
+        "relation": "right",
+        "subject": "plant holder",
+        "object": "terrarium"
+      },
+      {
+        "relation": "above",
+        "subject": "shelf",
+        "object": "terrarium"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "hammer",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "board",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "mallet",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "nails",
+        "quantity": "",
+        "attributes": [
+          "fluffy",
+          "plastic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "hammer",
+        "relation": "below",
+        "object": "board"
+      },
+      {
+        "subject": "mallet",
+        "relation": "right",
+        "object": "board"
+      },
+      {
+        "relation": "below",
+        "subject": "hammer",
+        "object": "mallet"
+      },
+      {
+        "relation": "below",
+        "subject": "hammer",
+        "object": "nails"
+      },
+      {
+        "relation": "below",
+        "subject": "nails",
+        "object": "board"
+      },
+      {
+        "relation": "below",
+        "subject": "mallet",
+        "object": "nails"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "flowers",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "mantle",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      },
+      {
+        "head": "frame",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "vase",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "flowers",
+        "relation": "above",
+        "object": "mantle"
+      },
+      {
+        "subject": "frame",
+        "relation": "above",
+        "object": "mantle"
+      },
+      {
+        "subject": "vase",
+        "relation": "above",
+        "object": "mantle"
+      },
+      {
+        "relation": "above",
+        "subject": "frame",
+        "object": "flowers"
+      },
+      {
+        "relation": "above",
+        "subject": "flowers",
+        "object": "vase"
+      },
+      {
+        "relation": "right",
+        "subject": "frame",
+        "object": "vase"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "belt",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "hook",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "door",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "hat",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "belt",
+        "relation": "left",
+        "object": "hook"
+      },
+      {
+        "subject": "door",
+        "relation": "below",
+        "object": "hook"
+      },
+      {
+        "subject": "hat",
+        "relation": "left",
+        "object": "hook"
+      },
+      {
+        "relation": "left",
+        "subject": "belt",
+        "object": "door"
+      },
+      {
+        "relation": "above",
+        "subject": "hat",
+        "object": "belt"
+      },
+      {
+        "relation": "below",
+        "subject": "hat",
+        "object": "door"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "notepad",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "notes",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "pencil",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "sharpener",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "notes",
+        "relation": "right",
+        "object": "notepad"
+      },
+      {
+        "subject": "pencil",
+        "relation": "right",
+        "object": "notepad"
+      },
+      {
+        "subject": "sharpener",
+        "relation": "right",
+        "object": "notepad"
+      },
+      {
+        "relation": "right",
+        "subject": "notes",
+        "object": "pencil"
+      },
+      {
+        "relation": "right",
+        "subject": "sharpener",
+        "object": "notes"
+      },
+      {
+        "relation": "right",
+        "subject": "pencil",
+        "object": "sharpener"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bed",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "lampshade",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "nightstand",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "pillow",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "lampshade",
+        "relation": "above",
+        "object": "nightstand"
+      },
+      {
+        "subject": "nightstand",
+        "relation": "below",
+        "object": "bed"
+      },
+      {
+        "subject": "pillow",
+        "relation": "above",
+        "object": "nightstand"
+      },
+      {
+        "relation": "above",
+        "subject": "lampshade",
+        "object": "bed"
+      },
+      {
+        "relation": "above",
+        "subject": "pillow",
+        "object": "bed"
+      },
+      {
+        "relation": "above",
+        "subject": "lampshade",
+        "object": "pillow"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cup",
+        "quantity": "",
+        "attributes": [
+          "measuring",
+          "plastic"
+        ]
+      },
+      {
+        "head": "ingredients",
+        "quantity": "",
+        "attributes": [
+          "fluffy",
+          "metallic"
+        ]
+      },
+      {
+        "head": "cake batter",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "spoon",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "ingredients",
+        "relation": "above",
+        "object": "cake batter"
+      },
+      {
+        "relation": "right",
+        "subject": "ingredients",
+        "object": "cup"
+      },
+      {
+        "relation": "right",
+        "subject": "cake batter",
+        "object": "cup"
+      },
+      {
+        "relation": "above",
+        "subject": "spoon",
+        "object": "cup"
+      },
+      {
+        "relation": "right",
+        "subject": "ingredients",
+        "object": "spoon"
+      },
+      {
+        "relation": "right",
+        "subject": "cake batter",
+        "object": "spoon"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "jacket",
+        "quantity": "",
+        "attributes": [
+          "leather",
+          "metallic"
+        ]
+      },
+      {
+        "head": "wearer",
+        "quantity": "",
+        "attributes": [
+          "fluffy",
+          "warm"
+        ]
+      },
+      {
+        "head": "zipper",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "sidewalk",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "jacket",
+        "relation": "right",
+        "object": "wearer"
+      },
+      {
+        "subject": "jacket",
+        "relation": "right",
+        "object": "zipper"
+      },
+      {
+        "subject": "jacket",
+        "relation": "above",
+        "object": "sidewalk"
+      },
+      {
+        "relation": "right",
+        "subject": "zipper",
+        "object": "wearer"
+      },
+      {
+        "relation": "above",
+        "subject": "wearer",
+        "object": "sidewalk"
+      },
+      {
+        "relation": "above",
+        "subject": "zipper",
+        "object": "sidewalk"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bowl",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "egg whites",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "meringue",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "whisk",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "bowl",
+        "relation": "left",
+        "object": "egg whites"
+      },
+      {
+        "subject": "meringue",
+        "relation": "left",
+        "object": "egg whites"
+      },
+      {
+        "subject": "whisk",
+        "relation": "right",
+        "object": "egg whites"
+      },
+      {
+        "relation": "left",
+        "subject": "bowl",
+        "object": "meringue"
+      },
+      {
+        "relation": "left",
+        "subject": "whisk",
+        "object": "bowl"
+      },
+      {
+        "relation": "right",
+        "subject": "whisk",
+        "object": "meringue"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dress",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "rack",
+        "quantity": "",
+        "attributes": [
+          "glass",
+          "metallic"
+        ]
+      },
+      {
+        "head": "hanger",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "mirror",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dress",
+        "relation": "left",
+        "object": "rack"
+      },
+      {
+        "subject": "hanger",
+        "relation": "left",
+        "object": "rack"
+      },
+      {
+        "subject": "rack",
+        "relation": "left",
+        "object": "mirror"
+      },
+      {
+        "relation": "right",
+        "subject": "dress",
+        "object": "hanger"
+      },
+      {
+        "relation": "left",
+        "subject": "dress",
+        "object": "mirror"
+      },
+      {
+        "relation": "above",
+        "subject": "hanger",
+        "object": "mirror"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "beer",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "bottle",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "opener",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "party",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "bottle",
+        "relation": "left",
+        "object": "beer"
+      },
+      {
+        "subject": "opener",
+        "relation": "left",
+        "object": "beer"
+      },
+      {
+        "relation": "above",
+        "subject": "beer",
+        "object": "party"
+      },
+      {
+        "relation": "left",
+        "subject": "bottle",
+        "object": "opener"
+      },
+      {
+        "relation": "above",
+        "subject": "bottle",
+        "object": "party"
+      },
+      {
+        "relation": "left",
+        "subject": "party",
+        "object": "opener"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "paper",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "project",
+        "quantity": "",
+        "attributes": [
+          "craft",
+          "wooden"
+        ]
+      },
+      {
+        "head": "ruler",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "scissors",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "ruler",
+        "relation": "below",
+        "object": "paper"
+      },
+      {
+        "subject": "scissors",
+        "relation": "below",
+        "object": "paper"
+      },
+      {
+        "relation": "left",
+        "subject": "paper",
+        "object": "project"
+      },
+      {
+        "relation": "left",
+        "subject": "ruler",
+        "object": "project"
+      },
+      {
+        "relation": "below",
+        "subject": "scissors",
+        "object": "project"
+      },
+      {
+        "relation": "below",
+        "subject": "ruler",
+        "object": "scissors"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "clipboard",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "documents",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "meeting",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "paperweight",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "clipboard",
+        "relation": "left",
+        "object": "documents"
+      },
+      {
+        "subject": "paperweight",
+        "relation": "left",
+        "object": "documents"
+      },
+      {
+        "relation": "left",
+        "subject": "clipboard",
+        "object": "meeting"
+      },
+      {
+        "relation": "left",
+        "subject": "clipboard",
+        "object": "paperweight"
+      },
+      {
+        "relation": "left",
+        "subject": "documents",
+        "object": "meeting"
+      },
+      {
+        "relation": "left",
+        "subject": "meeting",
+        "object": "paperweight"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "couch",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      },
+      {
+        "head": "floor",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "window",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "pillow",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "couch",
+        "relation": "above",
+        "object": "floor"
+      },
+      {
+        "subject": "floor",
+        "relation": "below",
+        "object": "window"
+      },
+      {
+        "subject": "pillow",
+        "relation": "above",
+        "object": "floor"
+      },
+      {
+        "relation": "below",
+        "subject": "couch",
+        "object": "window"
+      },
+      {
+        "relation": "left",
+        "subject": "couch",
+        "object": "pillow"
+      },
+      {
+        "relation": "below",
+        "subject": "pillow",
+        "object": "window"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "kettle",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "tea",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "water",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "spoon",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "kettle",
+        "relation": "above",
+        "object": "tea"
+      },
+      {
+        "subject": "kettle",
+        "relation": "above",
+        "object": "water"
+      },
+      {
+        "subject": "spoon",
+        "relation": "above",
+        "object": "tea"
+      },
+      {
+        "subject": "spoon",
+        "relation": "above",
+        "object": "water"
+      },
+      {
+        "relation": "above",
+        "subject": "kettle",
+        "object": "spoon"
+      },
+      {
+        "relation": "above",
+        "subject": "water",
+        "object": "tea"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "candy",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "table",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "jar",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "ribbon",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "candy",
+        "relation": "above",
+        "object": "table"
+      },
+      {
+        "subject": "jar",
+        "relation": "above",
+        "object": "table"
+      },
+      {
+        "subject": "ribbon",
+        "relation": "above",
+        "object": "jar"
+      },
+      {
+        "relation": "above",
+        "subject": "candy",
+        "object": "jar"
+      },
+      {
+        "relation": "left",
+        "subject": "candy",
+        "object": "ribbon"
+      },
+      {
+        "relation": "left",
+        "subject": "ribbon",
+        "object": "table"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bowl",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "greens",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "salad",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "tongs",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "greens",
+        "relation": "above",
+        "object": "salad"
+      },
+      {
+        "subject": "salad",
+        "relation": "above",
+        "object": "bowl"
+      },
+      {
+        "subject": "tongs",
+        "relation": "above",
+        "object": "greens"
+      },
+      {
+        "relation": "above",
+        "subject": "bowl",
+        "object": "greens"
+      },
+      {
+        "relation": "above",
+        "subject": "bowl",
+        "object": "tongs"
+      },
+      {
+        "relation": "above",
+        "subject": "tongs",
+        "object": "salad"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "door",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "keys",
+        "quantity": "",
+        "attributes": [
+          "plastic"
+        ]
+      },
+      {
+        "head": "keychain",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      },
+      {
+        "head": "wallet",
+        "quantity": "",
+        "attributes": [
+          "leather"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "door",
+        "relation": "below",
+        "object": "keys"
+      },
+      {
+        "subject": "keychain",
+        "relation": "left",
+        "object": "keys"
+      },
+      {
+        "subject": "wallet",
+        "relation": "left",
+        "object": "keys"
+      },
+      {
+        "relation": "left",
+        "subject": "keychain",
+        "object": "door"
+      },
+      {
+        "relation": "left",
+        "subject": "wallet",
+        "object": "door"
+      },
+      {
+        "relation": "left",
+        "subject": "keychain",
+        "object": "wallet"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "hook",
+        "quantity": "",
+        "attributes": [
+          "wooden",
+          "metallic"
+        ]
+      },
+      {
+        "head": "shower",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "towel",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "hook",
+        "relation": "left",
+        "object": "shower"
+      },
+      {
+        "subject": "towel",
+        "relation": "left",
+        "object": "hook"
+      },
+      {
+        "relation": "right",
+        "subject": "towel",
+        "object": "shower"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "hook",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "tree",
+        "quantity": "",
+        "attributes": [
+          "metallic",
+          "Christmas"
+        ]
+      },
+      {
+        "head": "ornament",
+        "quantity": "",
+        "attributes": [
+          "glass"
+        ]
+      },
+      {
+        "head": "skirt",
+        "quantity": "",
+        "attributes": [
+          "fabric"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "hook",
+        "relation": "above",
+        "object": "tree"
+      },
+      {
+        "subject": "ornament",
+        "relation": "above",
+        "object": "tree"
+      },
+      {
+        "subject": "tree",
+        "relation": "above",
+        "object": "skirt"
+      },
+      {
+        "relation": "above",
+        "subject": "ornament",
+        "object": "hook"
+      },
+      {
+        "relation": "above",
+        "subject": "hook",
+        "object": "skirt"
+      },
+      {
+        "relation": "above",
+        "subject": "ornament",
+        "object": "skirt"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "desk",
+        "quantity": "",
+        "attributes": [
+          "wooden"
+        ]
+      },
+      {
+        "head": "notebook",
+        "quantity": "",
+        "attributes": [
+          "fluffy"
+        ]
+      },
+      {
+        "head": "pen",
+        "quantity": "",
+        "attributes": [
+          "metallic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "notebook",
+        "relation": "above",
+        "object": "desk"
+      },
+      {
+        "subject": "pen",
+        "relation": "above",
+        "object": "desk"
+      },
+      {
+        "relation": "left",
+        "subject": "notebook",
+        "object": "pen"
+      }
+    ]
+  }
+]

@@ -1,0 +1,8841 @@
+[
+  {
+    "entities": [
+      {
+        "head": "cucumber",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      },
+      {
+        "head": "plum",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "cucumber",
+        "object": "plum"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "stop sign",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      },
+      {
+        "head": "traffic light",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "stop sign",
+        "object": "traffic light"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "ice bucket",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "ice cube",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "ice bucket",
+        "relation": "right",
+        "object": "ice cube"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "eggplant",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      },
+      {
+        "head": "melon",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "eggplant",
+        "object": "melon"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "block",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      },
+      {
+        "head": "bottle",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "block",
+        "object": "bottle"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "block",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      },
+      {
+        "head": "canister",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "block",
+        "object": "canister"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "locket",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      },
+      {
+        "head": "pendant",
+        "quantity": "",
+        "attributes": [
+          "diamond"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "locket",
+        "object": "pendant"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bracelet",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      },
+      {
+        "head": "pendant",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "pendant",
+        "relation": "above",
+        "object": "bracelet"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "paperweight",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      },
+      {
+        "head": "sign",
+        "quantity": "",
+        "attributes": [
+          "pentagonal",
+          "speed limit"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "paperweight",
+        "object": "sign"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "ring",
+        "quantity": "",
+        "attributes": [
+          "diamond"
+        ]
+      },
+      {
+        "head": "ring box",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "ring",
+        "relation": "above",
+        "object": "ring box"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bracelet",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      },
+      {
+        "head": "brooch",
+        "quantity": "",
+        "attributes": [
+          "diamond"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "bracelet",
+        "object": "brooch"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "obelisk",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      },
+      {
+        "head": "postbox",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "postbox",
+        "object": "obelisk"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "hat",
+        "quantity": "",
+        "attributes": [
+          "wizard",
+          "conical"
+        ]
+      },
+      {
+        "head": "wand",
+        "quantity": "",
+        "attributes": [
+          "spherical",
+          "crystal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "hat",
+        "object": "wand"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "muffin",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      },
+      {
+        "head": "napkin",
+        "quantity": "",
+        "attributes": [
+          "square"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "muffin",
+        "object": "napkin"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "candle",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      },
+      {
+        "head": "candle holder",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "candle",
+        "relation": "above",
+        "object": "candle holder"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "muffin",
+        "quantity": "",
+        "attributes": [
+          "square",
+          "round"
+        ]
+      },
+      {
+        "head": "liner",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "muffin",
+        "relation": "above",
+        "object": "liner"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "flagpole",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      },
+      {
+        "head": "globe",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "globe",
+        "object": "flagpole"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bear",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      },
+      {
+        "head": "squirrel",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "squirrel",
+        "object": "bear"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "mirror",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      },
+      {
+        "head": "sink",
+        "quantity": "",
+        "attributes": [
+          "oval"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "mirror",
+        "object": "sink"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "mirror",
+        "quantity": "",
+        "attributes": [
+          "oval"
+        ]
+      },
+      {
+        "head": "painting",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "mirror",
+        "object": "painting"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cheese",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      },
+      {
+        "head": "cheese board",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "cheese",
+        "relation": "above",
+        "object": "cheese board"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bagel",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      },
+      {
+        "head": "sandwich",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "bagel",
+        "object": "sandwich"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "lamppost",
+        "quantity": "",
+        "attributes": [
+          "short"
+        ]
+      },
+      {
+        "head": "skyscraper",
+        "quantity": "",
+        "attributes": [
+          "tall"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "lamppost",
+        "object": "skyscraper"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "necklace",
+        "quantity": "",
+        "attributes": [
+          "chain",
+          "triangular"
+        ]
+      },
+      {
+        "head": "pendant",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "pendant",
+        "object": "necklace"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "peach",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      },
+      {
+        "head": "sweet potato",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "peach",
+        "object": "sweet potato"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "balloon",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "party hat",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "balloon",
+        "object": "party hat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "ball",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "trophy",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "trophy",
+        "relation": "right",
+        "object": "ball"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "plum",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      },
+      {
+        "head": "squash",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "plum",
+        "object": "squash"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "skyscraper",
+        "quantity": "",
+        "attributes": [
+          "tall"
+        ]
+      },
+      {
+        "head": "street lamp",
+        "quantity": "",
+        "attributes": [
+          "short"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "skyscraper",
+        "object": "street lamp"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "baseball",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "baseball cap",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "baseball cap",
+        "relation": "above",
+        "object": "baseball"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "coffee table",
+        "quantity": "",
+        "attributes": [
+          "oval"
+        ]
+      },
+      {
+        "head": "rug",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "coffee table",
+        "object": "rug"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "container",
+        "quantity": "",
+        "attributes": [
+          "square"
+        ]
+      },
+      {
+        "head": "cookie",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "cookie",
+        "object": "container"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "pendant",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      },
+      {
+        "head": "ring",
+        "quantity": "",
+        "attributes": [
+          "engagement",
+          "diamond"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "pendant",
+        "object": "ring"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bathtub",
+        "quantity": "",
+        "attributes": [
+          "oval"
+        ]
+      },
+      {
+        "head": "shower",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "curtain",
+        "quantity": "",
+        "attributes": [
+          "square"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "bathtub",
+        "relation": "above",
+        "object": "shower"
+      },
+      {
+        "subject": "curtain",
+        "relation": "above",
+        "object": "shower"
+      },
+      {
+        "relation": "below",
+        "subject": "bathtub",
+        "object": "curtain"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "squash",
+        "quantity": "",
+        "attributes": [
+          "oblong",
+          "acorn"
+        ]
+      },
+      {
+        "head": "apricot",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "squash",
+        "object": "apricot"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "melon",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      },
+      {
+        "head": "pear",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "melon",
+        "object": "pear"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cabin",
+        "quantity": "",
+        "attributes": [
+          "short"
+        ]
+      },
+      {
+        "head": "skyscraper",
+        "quantity": "",
+        "attributes": [
+          "tall"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "cabin",
+        "object": "skyscraper"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bag",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      },
+      {
+        "head": "box",
+        "quantity": "",
+        "attributes": [
+          "square"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "bag",
+        "object": "box"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "ball",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "party hat",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "ball",
+        "object": "party hat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "snake",
+        "quantity": "",
+        "attributes": [
+          "long"
+        ]
+      },
+      {
+        "head": "tree",
+        "quantity": "",
+        "attributes": [
+          "short"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "snake",
+        "object": "tree"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "hat",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      },
+      {
+        "head": "player",
+        "quantity": "",
+        "attributes": [
+          "basketball",
+          "tall"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "player",
+        "object": "hat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "book",
+        "quantity": "",
+        "attributes": [
+          "square"
+        ]
+      },
+      {
+        "head": "pencil",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "book",
+        "object": "pencil"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "block",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      },
+      {
+        "head": "container",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      },
+      {
+        "head": "hand cream",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "container",
+        "relation": "right",
+        "object": "hand cream"
+      },
+      {
+        "relation": "above",
+        "subject": "block",
+        "object": "container"
+      },
+      {
+        "relation": "below",
+        "subject": "block",
+        "object": "hand cream"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "block",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      },
+      {
+        "head": "building",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "block",
+        "object": "building"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bracelet",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      },
+      {
+        "head": "pendant",
+        "quantity": "",
+        "attributes": [
+          "diamond"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "bracelet",
+        "object": "pendant"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "sink",
+        "quantity": "",
+        "attributes": [
+          "oval"
+        ]
+      },
+      {
+        "head": "soap dispenser",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "sink",
+        "object": "soap dispenser"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "squash",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      },
+      {
+        "head": "strawberry",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "squash",
+        "object": "strawberry"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "laptop",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      },
+      {
+        "head": "laptop bag",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "laptop",
+        "relation": "right",
+        "object": "laptop bag"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "carrot",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      },
+      {
+        "head": "plum",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "carrot",
+        "object": "plum"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "hippopotamus",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      },
+      {
+        "head": "rabbit",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "hippopotamus",
+        "object": "rabbit"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "flower arrangement",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      },
+      {
+        "head": "vase",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "flower arrangement",
+        "object": "vase"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "ornament",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "tree topper",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "ornament",
+        "object": "tree topper"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "tree",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      },
+      {
+        "head": "tree skirt",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "tree skirt",
+        "relation": "above",
+        "object": "tree"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bagel",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      },
+      {
+        "head": "toaster",
+        "quantity": "",
+        "attributes": [
+          "square"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "bagel",
+        "object": "toaster"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "hippopotamus",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      },
+      {
+        "head": "mouse",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "hippopotamus",
+        "object": "mouse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "lion",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      },
+      {
+        "head": "mouse",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "lion",
+        "object": "mouse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "daisy",
+        "quantity": "",
+        "attributes": [
+          "short"
+        ]
+      },
+      {
+        "head": "sunflower",
+        "quantity": "",
+        "attributes": [
+          "tall"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "daisy",
+        "object": "sunflower"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "basketball",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "hat",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "basketball",
+        "object": "hat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "coffee table",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      },
+      {
+        "head": "rug",
+        "quantity": "",
+        "attributes": [
+          "circular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "rug",
+        "object": "coffee table"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "holder",
+        "quantity": "",
+        "attributes": [
+          "paperclip",
+          "pentagonal"
+        ]
+      },
+      {
+        "head": "paperweight",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "holder",
+        "object": "paperweight"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "box",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      },
+      {
+        "head": "paperweight",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "box",
+        "object": "paperweight"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "plum",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      },
+      {
+        "head": "zucchini",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "plum",
+        "object": "zucchini"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "block",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      },
+      {
+        "head": "flashlight",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "block",
+        "object": "flashlight"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "book",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "stand",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      },
+      {
+        "head": "sign",
+        "quantity": "",
+        "attributes": [
+          "yield",
+          "pentagonal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "book",
+        "relation": "above",
+        "object": "stand"
+      },
+      {
+        "relation": "below",
+        "subject": "book",
+        "object": "sign"
+      },
+      {
+        "relation": "above",
+        "subject": "sign",
+        "object": "stand"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "mango",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      },
+      {
+        "head": "potato",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "mango",
+        "object": "potato"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "basketball",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      },
+      {
+        "head": "water bottle",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "basketball",
+        "object": "water bottle"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "glass",
+        "quantity": "",
+        "attributes": [
+          "spherical",
+          "magnifying"
+        ]
+      },
+      {
+        "head": "mirror",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "magnifying glass",
+        "object": "mirror"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cherry",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      },
+      {
+        "head": "zucchini",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "cherry",
+        "object": "zucchini"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cactus",
+        "quantity": "",
+        "attributes": [
+          "short"
+        ]
+      },
+      {
+        "head": "palm tree",
+        "quantity": "",
+        "attributes": [
+          "tall"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "cactus",
+        "object": "palm tree"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bracelet",
+        "quantity": "",
+        "attributes": [
+          "diamond"
+        ]
+      },
+      {
+        "head": "watch",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "bracelet",
+        "object": "watch"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "medal",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      },
+      {
+        "head": "trophy",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "medal",
+        "object": "trophy"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bagel",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      },
+      {
+        "head": "sandwich",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "bagel",
+        "object": "sandwich press"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "block",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      },
+      {
+        "head": "soda can",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "block",
+        "object": "soda can"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "block",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      },
+      {
+        "head": "paper towel roll",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "block",
+        "object": "paper towel roll"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "candle",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      },
+      {
+        "head": "candlestick",
+        "quantity": "",
+        "attributes": [
+          "diamond"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "candle",
+        "relation": "above",
+        "object": "candlestick"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cottage",
+        "quantity": "",
+        "attributes": [
+          "short"
+        ]
+      },
+      {
+        "head": "skyscraper",
+        "quantity": "",
+        "attributes": [
+          "tall"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "cottage",
+        "object": "skyscraper"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "sapling",
+        "quantity": "",
+        "attributes": [
+          "short"
+        ]
+      },
+      {
+        "head": "tree",
+        "quantity": "",
+        "attributes": [
+          "tall",
+          "oak"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "tree",
+        "relation": "left",
+        "object": "sapling"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "eraser",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      },
+      {
+        "head": "pencil sharpener",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "eraser",
+        "object": "pencil sharpener"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "lasagna",
+        "quantity": "",
+        "attributes": [
+          "rectangular",
+          "piece"
+        ]
+      },
+      {
+        "head": "pizza",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "lasagna",
+        "object": "pizza"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "candle",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      },
+      {
+        "head": "candle holder",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "candle holder",
+        "relation": "left",
+        "object": "candle"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "blueberry",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      },
+      {
+        "head": "sweet potato",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "blueberry",
+        "object": "sweet potato"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "gorilla",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      },
+      {
+        "head": "mouse",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "gorilla",
+        "object": "mouse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cookie",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      },
+      {
+        "head": "tin",
+        "quantity": "",
+        "attributes": [
+          "square"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "cookie",
+        "object": "tin"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "sign",
+        "quantity": "",
+        "attributes": [
+          "caution",
+          "pentagonal"
+        ]
+      },
+      {
+        "head": "vase",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "sign",
+        "object": "vase"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "soccer ball",
+        "quantity": "",
+        "attributes": [
+          "spherical",
+          "diamond"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "computer",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      },
+      {
+        "head": "pendant",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "computer",
+        "object": "pendant"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "painting",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      },
+      {
+        "head": "picture frame",
+        "quantity": "",
+        "attributes": [
+          "oval"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "painting",
+        "object": "picture frame"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "pencil",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      },
+      {
+        "head": "pencil sharpener",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "pencil",
+        "relation": "above",
+        "object": "pencil sharpener"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bracelet",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      },
+      {
+        "head": "pendant",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "bracelet",
+        "object": "pendant"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bottle",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      },
+      {
+        "head": "lotion",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "box",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "bottle",
+        "relation": "right",
+        "object": "lotion"
+      },
+      {
+        "relation": "right",
+        "subject": "bottle",
+        "object": "box"
+      },
+      {
+        "relation": "above",
+        "subject": "lotion",
+        "object": "box"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "kitten",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      },
+      {
+        "head": "tiger",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "kitten",
+        "object": "tiger"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bookshelf",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      },
+      {
+        "head": "sign",
+        "quantity": "",
+        "attributes": [
+          "pentagonal",
+          "road"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "bookshelf",
+        "object": "sign"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "end table",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      },
+      {
+        "head": "rug",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "rug",
+        "object": "end table"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bead",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "necklace",
+        "quantity": "",
+        "attributes": [
+          "bead"
+        ]
+      },
+      {
+        "head": "pendant",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "pendant",
+        "relation": "above",
+        "object": "necklace"
+      },
+      {
+        "relation": "above",
+        "subject": "bead",
+        "object": "necklace"
+      },
+      {
+        "relation": "above",
+        "subject": "bead",
+        "object": "pendant"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bagel",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      },
+      {
+        "head": "toast",
+        "quantity": "",
+        "attributes": [
+          "square"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "bagel",
+        "object": "toast"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cricket",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      },
+      {
+        "head": "elephant",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "cricket",
+        "object": "elephant"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "ice cube",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      },
+      {
+        "head": "water bottle",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "ice cube",
+        "object": "water bottle"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "clock",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      },
+      {
+        "head": "face",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "clock",
+        "relation": "right",
+        "object": "face"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "pear",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      },
+      {
+        "head": "watermelon",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "pear",
+        "object": "watermelon"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "paperweight",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      },
+      {
+        "head": "pen holder",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "paperweight",
+        "object": "pen holder"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dolphin",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      },
+      {
+        "head": "whale",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "dolphin",
+        "object": "whale"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "remote control",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      },
+      {
+        "head": "television",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "remote control",
+        "object": "television"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "carrot",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      },
+      {
+        "head": "peach",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "carrot",
+        "object": "peach"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bacon",
+        "quantity": "",
+        "attributes": [
+          "rectangular",
+          "strip"
+        ]
+      },
+      {
+        "head": "bagel",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "bacon",
+        "object": "bagel"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "tomb",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      },
+      {
+        "head": "urn",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "tomb",
+        "object": "urn"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bagel",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      },
+      {
+        "head": "toast",
+        "quantity": "",
+        "attributes": [
+          "rectangular",
+          "piece"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "bagel",
+        "object": "toast"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "badge",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      },
+      {
+        "head": "crystal",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "badge",
+        "object": "crystal"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "hat",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      },
+      {
+        "head": "snowball",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "snowman",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "snowman",
+        "relation": "right",
+        "object": "hat"
+      },
+      {
+        "relation": "below",
+        "subject": "snowball",
+        "object": "hat"
+      },
+      {
+        "relation": "below",
+        "subject": "snowball",
+        "object": "snowman"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "painting",
+        "quantity": "",
+        "attributes": [
+          "square"
+        ]
+      },
+      {
+        "head": "picture frame",
+        "quantity": "",
+        "attributes": [
+          "oval"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "painting",
+        "object": "picture frame"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bridge",
+        "quantity": "",
+        "attributes": [
+          "long"
+        ]
+      },
+      {
+        "head": "fence",
+        "quantity": "",
+        "attributes": [
+          "short"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "bridge",
+        "object": "fence"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "box",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      },
+      {
+        "head": "pizza",
+        "quantity": "",
+        "attributes": [
+          "triangular",
+          "slice"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "pizza",
+        "relation": "above",
+        "object": "box"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "brooch",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      },
+      {
+        "head": "tiara",
+        "quantity": "",
+        "attributes": [
+          "diamond"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "brooch",
+        "object": "tiara"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "light",
+        "quantity": "",
+        "attributes": [
+          "circular",
+          "pendant"
+        ]
+      },
+      {
+        "head": "shelf",
+        "quantity": "",
+        "attributes": [
+          "triangular",
+          "corner"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "light",
+        "object": "shelf"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "party hat",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      },
+      {
+        "head": "snowball",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "party hat",
+        "object": "snowball"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bear",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      },
+      {
+        "head": "rabbit",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "bear",
+        "object": "rabbit"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "moon",
+        "quantity": "",
+        "attributes": [
+          "crescent"
+        ]
+      },
+      {
+        "head": "star",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "star",
+        "object": "moon"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "block",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      },
+      {
+        "head": "toothpaste",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "tube",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "toothpaste",
+        "relation": "above",
+        "object": "tube"
+      },
+      {
+        "relation": "above",
+        "subject": "block",
+        "object": "toothpaste"
+      },
+      {
+        "relation": "above",
+        "subject": "block",
+        "object": "tube"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "trophy",
+        "quantity": "",
+        "attributes": [
+          "spherical",
+          "pyramidal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "trophy",
+        "relation": "right",
+        "object": "trophy"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bagel",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      },
+      {
+        "head": "sandwich",
+        "quantity": "",
+        "attributes": [
+          "breakfast",
+          "rectangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "bagel",
+        "object": "sandwich"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "holder",
+        "quantity": "",
+        "attributes": [
+          "paper clip",
+          "pyramidal"
+        ]
+      },
+      {
+        "head": "sign",
+        "quantity": "",
+        "attributes": [
+          "traffic",
+          "pentagonal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "holder",
+        "object": "sign"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      },
+      {
+        "head": "elephant",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "dog",
+        "object": "elephant"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "box",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      },
+      {
+        "head": "party hat",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "box",
+        "object": "party hat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "tennis ball",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "tennis shoe",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "tennis ball",
+        "object": "tennis shoe"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "parking sign",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      },
+      {
+        "head": "trophy",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "parking sign",
+        "object": "trophy"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bookend",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      },
+      {
+        "head": "bookstand",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "bookend",
+        "object": "bookstand"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "frame",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      },
+      {
+        "head": "snow globe",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "snow globe",
+        "relation": "right",
+        "object": "frame"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "block",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      },
+      {
+        "head": "container",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      },
+      {
+        "head": "markers",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "container",
+        "relation": "right",
+        "object": "markers"
+      },
+      {
+        "relation": "above",
+        "subject": "block",
+        "object": "container"
+      },
+      {
+        "relation": "below",
+        "subject": "block",
+        "object": "markers"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "table",
+        "quantity": "",
+        "attributes": [
+          "dining",
+          "circular"
+        ]
+      },
+      {
+        "head": "table runner",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "table",
+        "object": "table runner"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "mirror",
+        "quantity": "",
+        "attributes": [
+          "circular"
+        ]
+      },
+      {
+        "head": "shelf",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "mirror",
+        "object": "shelf"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "block",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      },
+      {
+        "head": "toothpaste",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "tube",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "toothpaste",
+        "relation": "above",
+        "object": "tube"
+      },
+      {
+        "relation": "above",
+        "subject": "block",
+        "object": "toothpaste"
+      },
+      {
+        "relation": "above",
+        "subject": "block",
+        "object": "tube"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "grapefruit",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      },
+      {
+        "head": "potato",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "grapefruit",
+        "object": "potato"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "box",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      },
+      {
+        "head": "pizza",
+        "quantity": "",
+        "attributes": [
+          "triangular",
+          "slice"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "pizza",
+        "relation": "above",
+        "object": "box"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "block",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      },
+      {
+        "head": "box",
+        "quantity": "",
+        "attributes": [
+          "puzzle",
+          "pyramidal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "block",
+        "object": "box"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "lamp base",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      },
+      {
+        "head": "lampshade",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "lamp base",
+        "relation": "below",
+        "object": "lampshade"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "pizza",
+        "quantity": "",
+        "attributes": [
+          "square",
+          "round"
+        ]
+      },
+      {
+        "head": "pizza box",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "pizza",
+        "relation": "above",
+        "object": "pizza box"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "shaker",
+        "quantity": "",
+        "attributes": [
+          "salt",
+          "pyramidal"
+        ]
+      },
+      {
+        "head": "sign",
+        "quantity": "",
+        "attributes": [
+          "yield",
+          "pentagonal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "shaker",
+        "object": "sign"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "nectarine",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      },
+      {
+        "head": "squash",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "nectarine",
+        "object": "squash"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dice",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      },
+      {
+        "head": "game piece",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "dice",
+        "object": "game piece"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "pendant light",
+        "quantity": "",
+        "attributes": [
+          "circular"
+        ]
+      },
+      {
+        "head": "wall hook",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "pendant light",
+        "object": "wall hook"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bath mat",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      },
+      {
+        "head": "bathtub",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "bathtub",
+        "relation": "left",
+        "object": "bath mat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "book",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      },
+      {
+        "head": "can",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      },
+      {
+        "head": "soup",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "soup",
+        "relation": "above",
+        "object": "can"
+      },
+      {
+        "relation": "left",
+        "subject": "book",
+        "object": "can"
+      },
+      {
+        "relation": "left",
+        "subject": "book",
+        "object": "soup"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "pencil eraser",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "pencil sharpener",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "pencil eraser",
+        "object": "pencil sharpener"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "mirror",
+        "quantity": "",
+        "attributes": [
+          "circular"
+        ]
+      },
+      {
+        "head": "shelf",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      },
+      {
+        "head": "corner",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "shelf",
+        "relation": "above",
+        "object": "corner"
+      },
+      {
+        "relation": "above",
+        "subject": "mirror",
+        "object": "shelf"
+      },
+      {
+        "relation": "above",
+        "subject": "mirror",
+        "object": "corner"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dish",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      },
+      {
+        "head": "pie",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "pie",
+        "relation": "above",
+        "object": "dish"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "block",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      },
+      {
+        "head": "bottle",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      },
+      {
+        "head": "water",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "bottle",
+        "relation": "right",
+        "object": "water"
+      },
+      {
+        "relation": "above",
+        "subject": "block",
+        "object": "bottle"
+      },
+      {
+        "relation": "above",
+        "subject": "block",
+        "object": "water"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "basketball player",
+        "quantity": "",
+        "attributes": [
+          "tall"
+        ]
+      },
+      {
+        "head": "jockey",
+        "quantity": "",
+        "attributes": [
+          "short"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "basketball player",
+        "object": "jockey"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "gemstone",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      },
+      {
+        "head": "pendant",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "pendant",
+        "relation": "left",
+        "object": "gemstone"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      },
+      {
+        "head": "hippopotamus",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "cat",
+        "object": "hippopotamus"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "clock",
+        "quantity": "",
+        "attributes": [
+          "circular"
+        ]
+      },
+      {
+        "head": "wall shelf",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "clock",
+        "object": "wall shelf"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bench",
+        "quantity": "",
+        "attributes": [
+          "short"
+        ]
+      },
+      {
+        "head": "lighthouse",
+        "quantity": "",
+        "attributes": [
+          "tall"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "bench",
+        "object": "lighthouse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bagel",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      },
+      {
+        "head": "toaster",
+        "quantity": "",
+        "attributes": [
+          "square"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "bagel",
+        "object": "toaster"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "clock",
+        "quantity": "",
+        "attributes": [
+          "circular"
+        ]
+      },
+      {
+        "head": "wall art",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "clock",
+        "object": "wall art"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "box",
+        "quantity": "",
+        "attributes": [
+          "puzzle",
+          "pyramidal"
+        ]
+      },
+      {
+        "head": "piece",
+        "quantity": "",
+        "attributes": [
+          "puzzle",
+          "cubic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "box",
+        "object": "piece"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "apricot",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      },
+      {
+        "head": "squash",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "apricot",
+        "object": "squash"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "globe",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "pencil",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "globe",
+        "object": "pencil"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cucumber",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      },
+      {
+        "head": "kiwi",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "cucumber",
+        "object": "kiwi"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "beach ball",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "party hat",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "beach ball",
+        "object": "party hat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "coffee table",
+        "quantity": "",
+        "attributes": [
+          "square"
+        ]
+      },
+      {
+        "head": "rug",
+        "quantity": "",
+        "attributes": [
+          "oval"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "rug",
+        "object": "coffee table"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "necklace",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      },
+      {
+        "head": "ring",
+        "quantity": "",
+        "attributes": [
+          "diamond"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "necklace",
+        "object": "ring"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "carrot",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      },
+      {
+        "head": "grape",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "carrot",
+        "object": "grape"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "soccer ball",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "traffic cone",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "soccer ball",
+        "object": "traffic cone"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bush",
+        "quantity": "",
+        "attributes": [
+          "short"
+        ]
+      },
+      {
+        "head": "skyscraper",
+        "quantity": "",
+        "attributes": [
+          "tall"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "bush",
+        "object": "skyscraper"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "paperweight",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      },
+      {
+        "head": "stop sign",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "paperweight",
+        "object": "stop sign"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "block",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      },
+      {
+        "head": "jar",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      },
+      {
+        "head": "honey",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "block",
+        "relation": "left",
+        "object": "jar"
+      },
+      {
+        "subject": "honey",
+        "relation": "above",
+        "object": "jar"
+      },
+      {
+        "relation": "above",
+        "subject": "block",
+        "object": "honey"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bread",
+        "quantity": "",
+        "attributes": [
+          "rectangular",
+          "slice"
+        ]
+      },
+      {
+        "head": "pizza",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "pizza",
+        "object": "bread"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bagel",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      },
+      {
+        "head": "toaster",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "bagel",
+        "object": "toaster"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "table",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      },
+      {
+        "head": "tablecloth",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "table",
+        "relation": "right",
+        "object": "tablecloth"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "palm tree",
+        "quantity": "",
+        "attributes": [
+          "tall"
+        ]
+      },
+      {
+        "head": "shrub",
+        "quantity": "",
+        "attributes": [
+          "short"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "palm tree",
+        "object": "shrub"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "mouse",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      },
+      {
+        "head": "pig",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "mouse",
+        "object": "pig"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "peach",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      },
+      {
+        "head": "squash",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "peach",
+        "object": "squash"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "monument",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      },
+      {
+        "head": "stop sign",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "stop sign",
+        "object": "monument"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "eraser",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      },
+      {
+        "head": "pen",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "eraser",
+        "object": "pen"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "globe",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "pencil sharpener",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "globe",
+        "object": "pencil sharpener"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "base",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      },
+      {
+        "head": "trophy",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "trophy",
+        "relation": "right",
+        "object": "base"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bathtub",
+        "quantity": "",
+        "attributes": [
+          "oval"
+        ]
+      },
+      {
+        "head": "soap dish",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "bathtub",
+        "object": "soap dish"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "coin purse",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "wallet",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "coin purse",
+        "object": "wallet"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "badge",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      },
+      {
+        "head": "monument",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "badge",
+        "object": "monument"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bush",
+        "quantity": "",
+        "attributes": [
+          "short"
+        ]
+      },
+      {
+        "head": "tree",
+        "quantity": "",
+        "attributes": [
+          "tall"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "bush",
+        "object": "tree"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dice",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      },
+      {
+        "head": "pencil holder",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "dice",
+        "object": "pencil holder"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "pyramid",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      },
+      {
+        "head": "street sign",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "pyramid",
+        "object": "street sign"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "mountain",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      },
+      {
+        "head": "volcano",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "mountain",
+        "object": "volcano"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "necklace",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      },
+      {
+        "head": "ring",
+        "quantity": "",
+        "attributes": [
+          "diamond"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "ring",
+        "object": "necklace"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "award",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      },
+      {
+        "head": "badge",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "badge",
+        "relation": "above",
+        "object": "award"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "golf ball",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "tee",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "golf ball",
+        "object": "tee"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "blade",
+        "quantity": "",
+        "attributes": [
+          "short"
+        ]
+      },
+      {
+        "head": "grass",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "tree",
+        "quantity": "",
+        "attributes": [
+          "tall",
+          "oak"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "grass",
+        "relation": "right",
+        "object": "blade"
+      },
+      {
+        "relation": "below",
+        "subject": "blade",
+        "object": "tree"
+      },
+      {
+        "relation": "below",
+        "subject": "grass",
+        "object": "tree"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "lamp",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      },
+      {
+        "head": "table",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "lamp",
+        "object": "table"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "platter",
+        "quantity": "",
+        "attributes": [
+          "oval"
+        ]
+      },
+      {
+        "head": "tablecloth",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "platter",
+        "object": "tablecloth"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "brooch",
+        "quantity": "",
+        "attributes": [
+          "diamond",
+          "pin"
+        ]
+      },
+      {
+        "head": "pendant",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "brooch",
+        "object": "pendant"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "doughnut",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      },
+      {
+        "head": "napkin",
+        "quantity": "",
+        "attributes": [
+          "square"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "doughnut",
+        "object": "napkin"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "button",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "cufflink",
+        "quantity": "",
+        "attributes": [
+          "diamond"
+        ]
+      },
+      {
+        "head": "shirt",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "shirt",
+        "relation": "right",
+        "object": "button"
+      },
+      {
+        "relation": "right",
+        "subject": "button",
+        "object": "cufflink"
+      },
+      {
+        "relation": "right",
+        "subject": "cufflink",
+        "object": "shirt"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dice",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      },
+      {
+        "head": "salt shaker",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "dice",
+        "object": "salt shaker"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "eggplant",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      },
+      {
+        "head": "fig",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "eggplant",
+        "object": "fig"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "sculpture",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      },
+      {
+        "head": "stop sign",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "stop sign",
+        "object": "sculpture"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "clock",
+        "quantity": "",
+        "attributes": [
+          "circular"
+        ]
+      },
+      {
+        "head": "shelf",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "clock",
+        "object": "shelf"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cutting board",
+        "quantity": "",
+        "attributes": [
+          "square"
+        ]
+      },
+      {
+        "head": "watermelon",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "watermelon",
+        "object": "cutting board"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bookshelf",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      },
+      {
+        "head": "clock",
+        "quantity": "",
+        "attributes": [
+          "circular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "bookshelf",
+        "object": "clock"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "shrimp",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      },
+      {
+        "head": "whale",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "shrimp",
+        "object": "whale"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "frame",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      },
+      {
+        "head": "picture",
+        "quantity": "",
+        "attributes": [
+          "oval"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "picture",
+        "relation": "right",
+        "object": "frame"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dining chair",
+        "quantity": "",
+        "attributes": [
+          "square"
+        ]
+      },
+      {
+        "head": "dining table",
+        "quantity": "",
+        "attributes": [
+          "oval"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "dining chair",
+        "object": "dining table"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "die",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      },
+      {
+        "head": "flashlight",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "die",
+        "object": "flashlight"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bread",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      },
+      {
+        "head": "bread basket",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "bread",
+        "relation": "above",
+        "object": "bread basket"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "toolbox",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      },
+      {
+        "head": "toolset",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "toolbox",
+        "object": "toolset"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "door",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      },
+      {
+        "head": "key",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "key",
+        "object": "door"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "coffee table",
+        "quantity": "",
+        "attributes": [
+          "oval"
+        ]
+      },
+      {
+        "head": "end table",
+        "quantity": "",
+        "attributes": [
+          "square"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "coffee table",
+        "object": "end table"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "balloon",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      },
+      {
+        "head": "party invitation",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "balloon",
+        "object": "party invitation"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "crystal",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "holder",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "holder",
+        "relation": "left",
+        "object": "crystal"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chocolates",
+        "quantity": "",
+        "attributes": [
+          "teardrop",
+          "cubic"
+        ]
+      },
+      {
+        "head": "box",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chocolates",
+        "relation": "above",
+        "object": "box"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "desk",
+        "quantity": "",
+        "attributes": [
+          "pentagonal",
+          "diamond"
+        ]
+      },
+      {
+        "head": "organizer",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "desk",
+        "relation": "right",
+        "object": "organizer"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "mountain",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      },
+      {
+        "head": "tree",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "tree",
+        "object": "mountain"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "placemat",
+        "quantity": "",
+        "attributes": [
+          "square"
+        ]
+      },
+      {
+        "head": "table",
+        "quantity": "",
+        "attributes": [
+          "oval"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "placemat",
+        "object": "table"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "box",
+        "quantity": "",
+        "attributes": [
+          "pentagonal",
+          "chocolate"
+        ]
+      },
+      {
+        "head": "truffle",
+        "quantity": "",
+        "attributes": [
+          "spherical",
+          "chocolate"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "box",
+        "object": "truffle"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "ceiling light",
+        "quantity": "",
+        "attributes": [
+          "triangular",
+          "circular"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "bowling ball",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "bowling pin",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "bowling ball",
+        "object": "bowling pin"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "gorilla",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      },
+      {
+        "head": "monkey",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "gorilla",
+        "object": "monkey"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "book",
+        "quantity": "",
+        "attributes": [
+          "short"
+        ]
+      },
+      {
+        "head": "bookmark",
+        "quantity": "",
+        "attributes": [
+          "long"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "book",
+        "object": "bookmark"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "keychain",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      },
+      {
+        "head": "keys",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "keychain",
+        "object": "keys"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "gift box",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      },
+      {
+        "head": "gift wrap",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "gift box",
+        "object": "gift wrap"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "box",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      },
+      {
+        "head": "cube",
+        "quantity": "",
+        "attributes": [
+          "rubik's",
+          "cubic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "cube",
+        "relation": "above",
+        "object": "box"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "daisy",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      },
+      {
+        "head": "sunflower",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "daisy",
+        "object": "sunflower"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "Rubik's cube",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      },
+      {
+        "head": "pencil holder",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "Rubik's cube",
+        "relation": "left",
+        "object": "pencil holder"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "handbag",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      },
+      {
+        "head": "keychain",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "keychain",
+        "relation": "above",
+        "object": "handbag"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      },
+      {
+        "head": "truck",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "car",
+        "object": "truck"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "earring",
+        "quantity": "",
+        "attributes": [
+          "short"
+        ]
+      },
+      {
+        "head": "necklace",
+        "quantity": "",
+        "attributes": [
+          "long"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "earring",
+        "object": "necklace"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "coffee table",
+        "quantity": "",
+        "attributes": [
+          "oval"
+        ]
+      },
+      {
+        "head": "ottoman",
+        "quantity": "",
+        "attributes": [
+          "square"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "coffee table",
+        "object": "ottomans"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "phone",
+        "quantity": "",
+        "attributes": [
+          "rectangular",
+          "teardrop"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "cup",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      },
+      {
+        "head": "saucer",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "cup",
+        "object": "saucer"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "pebble",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      },
+      {
+        "head": "rock",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "pebble",
+        "object": "rock"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "salt shaker",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      },
+      {
+        "head": "sugar",
+        "quantity": "",
+        "attributes": [
+          "cube"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "salt shaker",
+        "object": "sugar"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "button",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      },
+      {
+        "head": "zipper",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "button",
+        "object": "zipper"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "balloon",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "banner",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "balloon",
+        "object": "banner"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "balloon",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      },
+      {
+        "head": "marble",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "balloon",
+        "object": "marble"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bottle",
+        "quantity": "",
+        "attributes": [
+          "cylindrical",
+          "wine"
+        ]
+      },
+      {
+        "head": "glass",
+        "quantity": "",
+        "attributes": [
+          "wine",
+          "diamond"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "glass",
+        "object": "bottle"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "peach",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      },
+      {
+        "head": "soap",
+        "quantity": "",
+        "attributes": [
+          "rectangular",
+          "bar"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "peach",
+        "object": "soap"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bread",
+        "quantity": "",
+        "attributes": [
+          "triangular",
+          "slice"
+        ]
+      },
+      {
+        "head": "loaf",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "bread",
+        "relation": "above",
+        "object": "loaf"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "plum",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      },
+      {
+        "head": "potato",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "plum",
+        "object": "potato"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "pizza",
+        "quantity": "",
+        "attributes": [
+          "oval"
+        ]
+      },
+      {
+        "head": "pizza cutter",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "pizza",
+        "object": "pizza cutter"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "sculpture",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      },
+      {
+        "head": "sign",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "sign",
+        "object": "sculpture"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bathtub",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      },
+      {
+        "head": "showerhead",
+        "quantity": "",
+        "attributes": [
+          "square"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "showerhead",
+        "object": "bathtub"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      },
+      {
+        "head": "lion",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "lion",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "pastry",
+        "quantity": "",
+        "attributes": [
+          "toaster",
+          "round"
+        ]
+      },
+      {
+        "head": "roll",
+        "quantity": "",
+        "attributes": [
+          "round",
+          "cinnamon"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "pastry",
+        "object": "roll"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "base",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      },
+      {
+        "head": "lid",
+        "quantity": "",
+        "attributes": [
+          "square"
+        ]
+      },
+      {
+        "head": "trail",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      },
+      {
+        "head": "water bottle",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "water bottle",
+        "relation": "right",
+        "object": "base"
+      },
+      {
+        "subject": "water bottle",
+        "relation": "right",
+        "object": "lid"
+      },
+      {
+        "subject": "water bottle",
+        "relation": "above",
+        "object": "trail"
+      },
+      {
+        "relation": "above",
+        "subject": "base",
+        "object": "lid"
+      },
+      {
+        "relation": "below",
+        "subject": "base",
+        "object": "trail"
+      },
+      {
+        "relation": "above",
+        "subject": "lid",
+        "object": "trail"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bathroom",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      },
+      {
+        "head": "frame",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      },
+      {
+        "head": "mirror",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      },
+      {
+        "head": "reflection",
+        "quantity": "",
+        "attributes": [
+          "oval"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "mirror",
+        "relation": "left",
+        "object": "bathroom"
+      },
+      {
+        "subject": "mirror",
+        "relation": "right",
+        "object": "frame"
+      },
+      {
+        "subject": "mirror",
+        "relation": "right",
+        "object": "reflection"
+      },
+      {
+        "relation": "left",
+        "subject": "frame",
+        "object": "bathroom"
+      },
+      {
+        "relation": "above",
+        "subject": "reflection",
+        "object": "bathroom"
+      },
+      {
+        "relation": "below",
+        "subject": "frame",
+        "object": "reflection"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "earrings",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      },
+      {
+        "head": "jewelry box",
+        "quantity": "",
+        "attributes": [
+          "diamond"
+        ]
+      },
+      {
+        "head": "pearls",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "studs",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "earrings",
+        "relation": "above",
+        "object": "jewelry box"
+      },
+      {
+        "subject": "earrings",
+        "relation": "below",
+        "object": "pearls"
+      },
+      {
+        "subject": "earrings",
+        "relation": "above",
+        "object": "studs"
+      },
+      {
+        "relation": "above",
+        "subject": "pearls",
+        "object": "jewelry box"
+      },
+      {
+        "relation": "above",
+        "subject": "studs",
+        "object": "jewelry box"
+      },
+      {
+        "relation": "above",
+        "subject": "pearls",
+        "object": "studs"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bookshelf",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      },
+      {
+        "head": "legs",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      },
+      {
+        "head": "shelves",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      },
+      {
+        "head": "books",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "study",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "bookshelf",
+        "relation": "right",
+        "object": "legs"
+      },
+      {
+        "subject": "bookshelf",
+        "relation": "right",
+        "object": "shelves"
+      },
+      {
+        "subject": "bookshelf",
+        "relation": "left",
+        "object": "books"
+      },
+      {
+        "subject": "bookshelf",
+        "relation": "above",
+        "object": "study"
+      },
+      {
+        "relation": "above",
+        "subject": "shelves",
+        "object": "legs"
+      },
+      {
+        "relation": "left",
+        "subject": "legs",
+        "object": "books"
+      },
+      {
+        "relation": "below",
+        "subject": "legs",
+        "object": "study"
+      },
+      {
+        "relation": "left",
+        "subject": "shelves",
+        "object": "books"
+      },
+      {
+        "relation": "above",
+        "subject": "shelves",
+        "object": "study"
+      },
+      {
+        "relation": "above",
+        "subject": "books",
+        "object": "study"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "boat",
+        "quantity": "",
+        "attributes": [
+          "circular"
+        ]
+      },
+      {
+        "head": "boom",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      },
+      {
+        "head": "sail",
+        "quantity": "",
+        "attributes": [
+          "propelling",
+          "circular",
+          "triangular"
+        ]
+      },
+      {
+        "head": "stitching",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      },
+      {
+        "head": "ocean",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "sail",
+        "relation": "right",
+        "object": "boom"
+      },
+      {
+        "subject": "sail",
+        "relation": "right",
+        "object": "stitching"
+      },
+      {
+        "subject": "sail",
+        "relation": "above",
+        "object": "boat"
+      },
+      {
+        "subject": "sail",
+        "relation": "above",
+        "object": "ocean"
+      },
+      {
+        "relation": "above",
+        "subject": "boom",
+        "object": "boat"
+      },
+      {
+        "relation": "above",
+        "subject": "stitching",
+        "object": "boat"
+      },
+      {
+        "relation": "above",
+        "subject": "boat",
+        "object": "ocean"
+      },
+      {
+        "relation": "above",
+        "subject": "stitching",
+        "object": "boom"
+      },
+      {
+        "relation": "above",
+        "subject": "boom",
+        "object": "ocean"
+      },
+      {
+        "relation": "above",
+        "subject": "stitching",
+        "object": "ocean"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "back",
+        "quantity": "",
+        "attributes": [
+          "oval"
+        ]
+      },
+      {
+        "head": "sofa",
+        "quantity": "",
+        "attributes": [
+          "crescent"
+        ]
+      },
+      {
+        "head": "cushions",
+        "quantity": "",
+        "attributes": [
+          "square"
+        ]
+      },
+      {
+        "head": "living room",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      },
+      {
+        "head": "seating",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "back",
+        "relation": "above",
+        "object": "sofa"
+      },
+      {
+        "subject": "cushions",
+        "relation": "above",
+        "object": "sofa"
+      },
+      {
+        "subject": "sofa",
+        "relation": "above",
+        "object": "living room"
+      },
+      {
+        "subject": "sofa",
+        "relation": "right",
+        "object": "seating"
+      },
+      {
+        "relation": "above",
+        "subject": "cushions",
+        "object": "back"
+      },
+      {
+        "relation": "right",
+        "subject": "back",
+        "object": "living room"
+      },
+      {
+        "relation": "right",
+        "subject": "seating",
+        "object": "back"
+      },
+      {
+        "relation": "right",
+        "subject": "cushions",
+        "object": "living room"
+      },
+      {
+        "relation": "right",
+        "subject": "cushions",
+        "object": "seating"
+      },
+      {
+        "relation": "right",
+        "subject": "seating",
+        "object": "living room"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "corner",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      },
+      {
+        "head": "mouth",
+        "quantity": "",
+        "attributes": [
+          "circular"
+        ]
+      },
+      {
+        "head": "pattern",
+        "quantity": "",
+        "attributes": [
+          "diamond"
+        ]
+      },
+      {
+        "head": "room",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "vase",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      },
+      {
+        "head": "flowers",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "room",
+        "relation": "right",
+        "object": "corner"
+      },
+      {
+        "subject": "vase",
+        "relation": "right",
+        "object": "flowers"
+      },
+      {
+        "subject": "vase",
+        "relation": "right",
+        "object": "mouth"
+      },
+      {
+        "subject": "vase",
+        "relation": "right",
+        "object": "pattern"
+      },
+      {
+        "subject": "vase",
+        "relation": "above",
+        "object": "corner"
+      },
+      {
+        "relation": "above",
+        "subject": "corner",
+        "object": "mouth"
+      },
+      {
+        "relation": "above",
+        "subject": "pattern",
+        "object": "corner"
+      },
+      {
+        "relation": "right",
+        "subject": "flowers",
+        "object": "corner"
+      },
+      {
+        "relation": "above",
+        "subject": "pattern",
+        "object": "mouth"
+      },
+      {
+        "relation": "above",
+        "subject": "mouth",
+        "object": "room"
+      },
+      {
+        "relation": "right",
+        "subject": "mouth",
+        "object": "flowers"
+      },
+      {
+        "relation": "right",
+        "subject": "pattern",
+        "object": "room"
+      },
+      {
+        "relation": "right",
+        "subject": "pattern",
+        "object": "flowers"
+      },
+      {
+        "relation": "right",
+        "subject": "vase",
+        "object": "room"
+      },
+      {
+        "relation": "right",
+        "subject": "flowers",
+        "object": "room"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "base",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      },
+      {
+        "head": "desert",
+        "quantity": "",
+        "attributes": [
+          "square"
+        ]
+      },
+      {
+        "head": "entrance",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      },
+      {
+        "head": "pyramid",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      },
+      {
+        "head": "tourists",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "pyramid",
+        "relation": "right",
+        "object": "base"
+      },
+      {
+        "subject": "pyramid",
+        "relation": "right",
+        "object": "entrance"
+      },
+      {
+        "subject": "tourists",
+        "relation": "right",
+        "object": "desert"
+      },
+      {
+        "relation": "above",
+        "subject": "base",
+        "object": "desert"
+      },
+      {
+        "relation": "above",
+        "subject": "base",
+        "object": "entrance"
+      },
+      {
+        "relation": "above",
+        "subject": "base",
+        "object": "tourists"
+      },
+      {
+        "relation": "above",
+        "subject": "entrance",
+        "object": "desert"
+      },
+      {
+        "relation": "above",
+        "subject": "pyramid",
+        "object": "desert"
+      },
+      {
+        "relation": "above",
+        "subject": "entrance",
+        "object": "tourists"
+      },
+      {
+        "relation": "above",
+        "subject": "pyramid",
+        "object": "tourists"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      },
+      {
+        "head": "road",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      },
+      {
+        "head": "rim",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      },
+      {
+        "head": "spokes",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      },
+      {
+        "head": "wheel",
+        "quantity": "",
+        "attributes": [
+          "steering",
+          "circular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "above",
+        "object": "road"
+      },
+      {
+        "subject": "wheel",
+        "relation": "left",
+        "object": "car"
+      },
+      {
+        "subject": "wheel",
+        "relation": "right",
+        "object": "rim"
+      },
+      {
+        "subject": "wheel",
+        "relation": "right",
+        "object": "spokes"
+      },
+      {
+        "relation": "above",
+        "subject": "rim",
+        "object": "car"
+      },
+      {
+        "relation": "above",
+        "subject": "spokes",
+        "object": "car"
+      },
+      {
+        "relation": "below",
+        "subject": "road",
+        "object": "rim"
+      },
+      {
+        "relation": "above",
+        "subject": "spokes",
+        "object": "road"
+      },
+      {
+        "relation": "below",
+        "subject": "road",
+        "object": "wheel"
+      },
+      {
+        "relation": "left",
+        "subject": "spokes",
+        "object": "rim"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cone",
+        "quantity": "",
+        "attributes": [
+          "triangular",
+          "conical"
+        ]
+      },
+      {
+        "head": "scoop",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "treat",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "park",
+        "quantity": "",
+        "attributes": [
+          "diamond"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "cone",
+        "relation": "right",
+        "object": "scoop"
+      },
+      {
+        "subject": "cone",
+        "relation": "left",
+        "object": "treat"
+      },
+      {
+        "subject": "cone",
+        "relation": "above",
+        "object": "park"
+      },
+      {
+        "relation": "left",
+        "subject": "scoop",
+        "object": "treat"
+      },
+      {
+        "relation": "left",
+        "subject": "scoop",
+        "object": "park"
+      },
+      {
+        "relation": "above",
+        "subject": "treat",
+        "object": "park"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "table",
+        "quantity": "",
+        "attributes": [
+          "rectangular",
+          "long"
+        ]
+      },
+      {
+        "head": "room",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "vase",
+        "quantity": "",
+        "attributes": [
+          "small",
+          "circular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "table",
+        "relation": "left",
+        "object": "room"
+      },
+      {
+        "subject": "vase",
+        "relation": "left",
+        "object": "room"
+      },
+      {
+        "relation": "left",
+        "subject": "table",
+        "object": "vase"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dome",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "skyline",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "tower",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dome",
+        "relation": "above",
+        "object": "skyline"
+      },
+      {
+        "subject": "tower",
+        "relation": "above",
+        "object": "skyline"
+      },
+      {
+        "relation": "above",
+        "subject": "dome",
+        "object": "tower"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "brick",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      },
+      {
+        "head": "construction set",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "wedge",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "brick",
+        "relation": "above",
+        "object": "construction set"
+      },
+      {
+        "subject": "wedge",
+        "relation": "above",
+        "object": "construction set"
+      },
+      {
+        "relation": "left",
+        "subject": "wedge",
+        "object": "brick"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "knob",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      },
+      {
+        "head": "door",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "plate",
+        "quantity": "",
+        "attributes": [
+          "square"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "knob",
+        "relation": "above",
+        "object": "door"
+      },
+      {
+        "subject": "plate",
+        "relation": "above",
+        "object": "door"
+      },
+      {
+        "relation": "above",
+        "subject": "knob",
+        "object": "plate"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bracelet",
+        "quantity": "",
+        "attributes": [
+          "diamond-studded",
+          "jewelry"
+        ]
+      },
+      {
+        "head": "pendant",
+        "quantity": "",
+        "attributes": [
+          "teardrop",
+          "jewelry"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "bracelet",
+        "object": "pendant"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "hat",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      },
+      {
+        "head": "sky",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "moon",
+        "quantity": "",
+        "attributes": [
+          "crescent"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "hat",
+        "relation": "above",
+        "object": "sky"
+      },
+      {
+        "subject": "moon",
+        "relation": "above",
+        "object": "sky"
+      },
+      {
+        "relation": "above",
+        "subject": "hat",
+        "object": "moon"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "boxes",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      },
+      {
+        "head": "room",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "stones",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "boxes",
+        "relation": "above",
+        "object": "room"
+      },
+      {
+        "subject": "boxes",
+        "relation": "above",
+        "object": "stones"
+      },
+      {
+        "subject": "stones",
+        "relation": "above",
+        "object": "room"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "frame",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      },
+      {
+        "head": "wall",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "mirror",
+        "quantity": "",
+        "attributes": [
+          "oval"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "frame",
+        "relation": "right",
+        "object": "wall"
+      },
+      {
+        "subject": "mirror",
+        "relation": "above",
+        "object": "wall"
+      },
+      {
+        "relation": "right",
+        "subject": "frame",
+        "object": "mirror"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "ball",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "pyramid",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "ball",
+        "object": "pyramid"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "deck",
+        "quantity": "",
+        "attributes": [
+          "square"
+        ]
+      },
+      {
+        "head": "sail",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      },
+      {
+        "head": "sailboat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "sailboat",
+        "relation": "right",
+        "object": "deck"
+      },
+      {
+        "subject": "sailboat",
+        "relation": "right",
+        "object": "sail"
+      },
+      {
+        "relation": "above",
+        "subject": "sail",
+        "object": "deck"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "barrel",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      },
+      {
+        "head": "laboratory",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "flask",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "barrel",
+        "relation": "above",
+        "object": "laboratory"
+      },
+      {
+        "subject": "flask",
+        "relation": "above",
+        "object": "laboratory"
+      },
+      {
+        "relation": "left",
+        "subject": "barrel",
+        "object": "flask"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "ottoman",
+        "quantity": "",
+        "attributes": [
+          "circular"
+        ]
+      },
+      {
+        "head": "living room",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "rug",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "ottoman",
+        "relation": "left",
+        "object": "living room"
+      },
+      {
+        "subject": "rug",
+        "relation": "left",
+        "object": "living room"
+      },
+      {
+        "relation": "left",
+        "subject": "rug",
+        "object": "ottoman"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "door",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      },
+      {
+        "head": "wall",
+        "quantity": "",
+        "attributes": [
+          "blank"
+        ]
+      },
+      {
+        "head": "window",
+        "quantity": "",
+        "attributes": [
+          "diamond"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "door",
+        "relation": "above",
+        "object": "wall"
+      },
+      {
+        "subject": "window",
+        "relation": "above",
+        "object": "wall"
+      },
+      {
+        "relation": "left",
+        "subject": "window",
+        "object": "door"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "moon",
+        "quantity": "",
+        "attributes": [
+          "celestial body",
+          "crescent"
+        ]
+      },
+      {
+        "head": "planet",
+        "quantity": "",
+        "attributes": [
+          "celestial body",
+          "spherical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "moon",
+        "object": "planet"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "pizza",
+        "quantity": "",
+        "attributes": [
+          "triangular",
+          "slice",
+          "round"
+        ]
+      },
+      {
+        "head": "menu",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "pizza",
+        "relation": "above",
+        "object": "menu"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dice",
+        "quantity": "",
+        "attributes": [
+          "cubic",
+          "tool"
+        ]
+      },
+      {
+        "head": "pencil",
+        "quantity": "",
+        "attributes": [
+          "cylindrical",
+          "tool"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "dice",
+        "object": "pencil"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "arrangement",
+        "quantity": "",
+        "attributes": [
+          "floral"
+        ]
+      },
+      {
+        "head": "leaves",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      },
+      {
+        "head": "petals",
+        "quantity": "",
+        "attributes": [
+          "oval"
+        ]
+      },
+      {
+        "head": "table",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "arrangement",
+        "relation": "right",
+        "object": "leaves"
+      },
+      {
+        "subject": "arrangement",
+        "relation": "right",
+        "object": "petals"
+      },
+      {
+        "subject": "arrangement",
+        "relation": "above",
+        "object": "table"
+      },
+      {
+        "relation": "left",
+        "subject": "leaves",
+        "object": "petals"
+      },
+      {
+        "relation": "above",
+        "subject": "leaves",
+        "object": "table"
+      },
+      {
+        "relation": "above",
+        "subject": "petals",
+        "object": "table"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "hallway",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      },
+      {
+        "head": "house",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "room",
+        "quantity": "",
+        "attributes": [
+          "square"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "house",
+        "relation": "right",
+        "object": "hallway"
+      },
+      {
+        "subject": "house",
+        "relation": "right",
+        "object": "room"
+      },
+      {
+        "relation": "left",
+        "subject": "hallway",
+        "object": "room"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "archway",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      },
+      {
+        "head": "roof",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      },
+      {
+        "head": "temple",
+        "quantity": "",
+        "attributes": [
+          "ancient"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "temple",
+        "relation": "right",
+        "object": "archway"
+      },
+      {
+        "subject": "temple",
+        "relation": "right",
+        "object": "roof"
+      },
+      {
+        "relation": "above",
+        "subject": "archway",
+        "object": "roof"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "picture frame",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      },
+      {
+        "head": "front door",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "wreath",
+        "quantity": "",
+        "attributes": [
+          "circular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "picture frame",
+        "relation": "left",
+        "object": "front door"
+      },
+      {
+        "subject": "wreath",
+        "relation": "left",
+        "object": "front door"
+      },
+      {
+        "relation": "above",
+        "subject": "picture frame",
+        "object": "wreath"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "ball",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "hat",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "hat",
+        "object": "ball"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "curve",
+        "quantity": "",
+        "attributes": [
+          "crescent"
+        ]
+      },
+      {
+        "head": "carpet",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "diamond",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "curve",
+        "relation": "above",
+        "object": "carpet"
+      },
+      {
+        "subject": "diamond",
+        "relation": "above",
+        "object": "carpet"
+      },
+      {
+        "relation": "right",
+        "subject": "curve",
+        "object": "diamond"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "prism",
+        "quantity": "",
+        "attributes": [
+          "pentagonal",
+          "shape"
+        ]
+      },
+      {
+        "head": "pyramid",
+        "quantity": "",
+        "attributes": [
+          "triangular",
+          "shape"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "prism",
+        "object": "pyramid"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "column",
+        "quantity": "",
+        "attributes": [
+          "cylindrical",
+          "furniture"
+        ]
+      },
+      {
+        "head": "foyer",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "pedestal",
+        "quantity": "",
+        "attributes": [
+          "square",
+          "furniture"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "column",
+        "relation": "above",
+        "object": "foyer"
+      },
+      {
+        "subject": "pedestal",
+        "relation": "above",
+        "object": "foyer"
+      },
+      {
+        "relation": "above",
+        "subject": "column",
+        "object": "pedestal"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chairs",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      },
+      {
+        "head": "dinner party",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "table",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chairs",
+        "relation": "above",
+        "object": "dinner party"
+      },
+      {
+        "subject": "table",
+        "relation": "above",
+        "object": "dinner party"
+      },
+      {
+        "relation": "right",
+        "subject": "chairs",
+        "object": "table"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "droplet",
+        "quantity": "",
+        "attributes": [
+          "teardrop",
+          "spherical",
+          "science",
+          "nature",
+          "globe",
+          "symbol"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "architecture",
+        "quantity": "",
+        "attributes": [
+          "modern"
+        ]
+      },
+      {
+        "head": "roof",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      },
+      {
+        "head": "windows",
+        "quantity": "",
+        "attributes": [
+          "diamond"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "architecture",
+        "relation": "right",
+        "object": "roof"
+      },
+      {
+        "subject": "architecture",
+        "relation": "right",
+        "object": "windows"
+      },
+      {
+        "relation": "above",
+        "subject": "roof",
+        "object": "windows"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "block",
+        "quantity": "",
+        "attributes": [
+          "building block",
+          "cubic"
+        ]
+      },
+      {
+        "head": "tube",
+        "quantity": "",
+        "attributes": [
+          "building block",
+          "cylindrical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "block",
+        "object": "tube"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "screen",
+        "quantity": "",
+        "attributes": [
+          "rectangular",
+          "electronic"
+        ]
+      },
+      {
+        "head": "room",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "speakers",
+        "quantity": "",
+        "attributes": [
+          "oval",
+          "electronic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "screen",
+        "relation": "above",
+        "object": "room"
+      },
+      {
+        "subject": "speakers",
+        "relation": "above",
+        "object": "room"
+      },
+      {
+        "relation": "left",
+        "subject": "screen",
+        "object": "speakers"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "beach",
+        "quantity": "",
+        "attributes": [
+          "crescent"
+        ]
+      },
+      {
+        "head": "mountain",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "mountain",
+        "relation": "left",
+        "object": "beach"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "checkerboard",
+        "quantity": "",
+        "attributes": [
+          "square"
+        ]
+      },
+      {
+        "head": "quilt",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "star",
+        "quantity": "",
+        "attributes": [
+          "pentagonal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "checkerboard",
+        "relation": "above",
+        "object": "quilt"
+      },
+      {
+        "subject": "star",
+        "relation": "above",
+        "object": "quilt"
+      },
+      {
+        "relation": "below",
+        "subject": "checkerboard",
+        "object": "star"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "lines",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      },
+      {
+        "head": "shape",
+        "quantity": "",
+        "attributes": [
+          "pyramidal"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "lines",
+        "object": "shape"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "painting",
+        "quantity": "",
+        "attributes": [
+          "oblong"
+        ]
+      },
+      {
+        "head": "exhibit",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "sculpture",
+        "quantity": "",
+        "attributes": [
+          "circular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "painting",
+        "relation": "above",
+        "object": "exhibit"
+      },
+      {
+        "subject": "sculpture",
+        "relation": "above",
+        "object": "exhibit"
+      },
+      {
+        "relation": "left",
+        "subject": "painting",
+        "object": "sculpture"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "gifts",
+        "quantity": "2",
+        "attributes": [
+          "precious",
+          "beloved",
+          "from"
+        ]
+      },
+      {
+        "head": "necklace",
+        "quantity": "",
+        "attributes": [
+          "teardrop"
+        ]
+      },
+      {
+        "head": "ring",
+        "quantity": "",
+        "attributes": [
+          "diamond"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "gifts",
+        "object": "necklace"
+      },
+      {
+        "relation": "above",
+        "subject": "gifts",
+        "object": "ring"
+      },
+      {
+        "relation": "above",
+        "subject": "necklace",
+        "object": "ring"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "fountain",
+        "quantity": "",
+        "attributes": [
+          "spherical"
+        ]
+      },
+      {
+        "head": "city",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "tower",
+        "quantity": "",
+        "attributes": [
+          "cylindrical"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "fountain",
+        "relation": "above",
+        "object": "city"
+      },
+      {
+        "subject": "tower",
+        "relation": "above",
+        "object": "city"
+      },
+      {
+        "relation": "above",
+        "subject": "fountain",
+        "object": "tower"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banner",
+        "quantity": "",
+        "attributes": [
+          "rectangular"
+        ]
+      },
+      {
+        "head": "parade",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "wind",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "flag",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banner",
+        "relation": "above",
+        "object": "parade"
+      },
+      {
+        "subject": "banner",
+        "relation": "above",
+        "object": "wind"
+      },
+      {
+        "subject": "flag",
+        "relation": "above",
+        "object": "parade"
+      },
+      {
+        "subject": "flag",
+        "relation": "above",
+        "object": "wind"
+      },
+      {
+        "relation": "left",
+        "subject": "banner",
+        "object": "flag"
+      },
+      {
+        "relation": "right",
+        "subject": "wind",
+        "object": "parade"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "hotel suite",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "lampshade",
+        "quantity": "",
+        "attributes": [
+          "conical"
+        ]
+      },
+      {
+        "head": "room",
+        "quantity": "",
+        "attributes": [
+          "cubic"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "hotel suite",
+        "relation": "right",
+        "object": "lampshade"
+      },
+      {
+        "subject": "hotel suite",
+        "relation": "right",
+        "object": "room"
+      },
+      {
+        "relation": "above",
+        "subject": "lampshade",
+        "object": "room"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "bowl",
+        "quantity": "",
+        "attributes": [
+          "round"
+        ]
+      },
+      {
+        "head": "dinner",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "platter",
+        "quantity": "",
+        "attributes": [
+          "oval"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "bowl",
+        "relation": "right",
+        "object": "dinner"
+      },
+      {
+        "subject": "platter",
+        "relation": "above",
+        "object": "dinner"
+      },
+      {
+        "relation": "above",
+        "subject": "bowl",
+        "object": "platter"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "crystals",
+        "quantity": "",
+        "attributes": [
+          "pyramidal",
+          "pentagonal",
+          "tetrahedron",
+          "prism"
+        ]
+      },
+      {
+        "head": "museum",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "crystals",
+        "relation": "above",
+        "object": "museum"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "hot air balloon",
+        "quantity": "",
+        "attributes": [
+          "circular"
+        ]
+      },
+      {
+        "head": "sky",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "plane",
+        "quantity": "",
+        "attributes": [
+          "triangular"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "hot air balloon",
+        "relation": "above",
+        "object": "sky"
+      },
+      {
+        "subject": "plane",
+        "relation": "above",
+        "object": "sky"
+      },
+      {
+        "relation": "above",
+        "subject": "hot air balloon",
+        "object": "plane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      },
+      {
+        "head": "kitten",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "kitten",
+        "relation": "right",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "path",
+        "quantity": "",
+        "attributes": [
+          "short"
+        ]
+      },
+      {
+        "head": "destination",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "road",
+        "quantity": "",
+        "attributes": [
+          "long"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "path",
+        "relation": "right",
+        "object": "destination"
+      },
+      {
+        "subject": "road",
+        "relation": "right",
+        "object": "destination"
+      },
+      {
+        "relation": "above",
+        "subject": "path",
+        "object": "road"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "shrub",
+        "quantity": "",
+        "attributes": [
+          "short"
+        ]
+      },
+      {
+        "head": "garden",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "tree",
+        "quantity": "",
+        "attributes": [
+          "tall"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "shrub",
+        "relation": "above",
+        "object": "garden"
+      },
+      {
+        "subject": "tree",
+        "relation": "above",
+        "object": "garden"
+      },
+      {
+        "relation": "below",
+        "subject": "shrub",
+        "object": "tree"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "book",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      },
+      {
+        "head": "notepad",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "book",
+        "object": "notepad"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dress",
+        "quantity": "",
+        "attributes": [
+          "long",
+          "fashionable"
+        ]
+      },
+      {
+        "head": "skirt",
+        "quantity": "",
+        "attributes": [
+          "short",
+          "fashionable"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "dress",
+        "object": "skirt"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "building",
+        "quantity": "",
+        "attributes": [
+          "short"
+        ]
+      },
+      {
+        "head": "skyline",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "tower",
+        "quantity": "",
+        "attributes": [
+          "tall"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "building",
+        "relation": "right",
+        "object": "skyline"
+      },
+      {
+        "subject": "tower",
+        "relation": "right",
+        "object": "skyline"
+      },
+      {
+        "relation": "right",
+        "subject": "building",
+        "object": "tower"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "elephant",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      },
+      {
+        "head": "mouse",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "elephant",
+        "object": "mouse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "river",
+        "quantity": "",
+        "attributes": [
+          "long"
+        ]
+      },
+      {
+        "head": "valley",
+        "quantity": "",
+        "attributes": [
+          "picturesque"
+        ]
+      },
+      {
+        "head": "stream",
+        "quantity": "",
+        "attributes": [
+          "short"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "river",
+        "relation": "below",
+        "object": "valley"
+      },
+      {
+        "subject": "stream",
+        "relation": "below",
+        "object": "valley"
+      },
+      {
+        "relation": "above",
+        "subject": "stream",
+        "object": "river"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "ladder",
+        "quantity": "",
+        "attributes": [
+          "tall"
+        ]
+      },
+      {
+        "head": "stool",
+        "quantity": "",
+        "attributes": [
+          "short"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "left",
+        "subject": "ladder",
+        "object": "stool"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cabin",
+        "quantity": "",
+        "attributes": [
+          "small"
+        ]
+      },
+      {
+        "head": "house",
+        "quantity": "",
+        "attributes": [
+          "big"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "right",
+        "subject": "cabin",
+        "object": "house"
+      }
+    ]
+  }
+]

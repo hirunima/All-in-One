@@ -1,0 +1,11339 @@
+[
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "left",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "left",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "left",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "left",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "left",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "left",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "left",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "left",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "left",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "left",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "left",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "left",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "left",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "left",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "left",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "left",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "cat",
+        "relation": "left",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "left",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "left",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "left",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "left",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "left",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "left",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "left",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "left",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "left",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "left",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "left",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "left",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "cat",
+        "relation": "left",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "left",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "left",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "cat",
+        "relation": "left",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "left",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "cat",
+        "relation": "left",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "left",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "left",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "left",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "left",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "left",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "left",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "left",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "left",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "left",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "left",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "left",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "cat",
+        "relation": "left",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "left",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "cat",
+        "relation": "left",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "left",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "left",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "left",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "left",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "left",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "cat",
+        "relation": "left",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "left",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "left",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "left",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "left",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "left",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "horse"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "left",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "left",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "left",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "left",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "left",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "left",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "left",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "left",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "left",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "cat",
+        "relation": "left",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "cat",
+        "relation": "left",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "left",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "left",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "left",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "left",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "left",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "left",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "left",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "left",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "left",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "left",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "cat",
+        "relation": "left",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "left",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "left",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "left",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "left",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "left",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "left",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "cat",
+        "relation": "left",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "left",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "cat",
+        "relation": "left",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "left",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "left",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "left",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "left",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "left",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "left",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "cat",
+        "relation": "left",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "left",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "left",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "left",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "left",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "left",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "left",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "left",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "left",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "cat",
+        "relation": "left",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "left",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "left",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "left",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "left",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "left",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "left",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "left",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "left",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "left",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "right",
+        "object": "dog"
+      },
+      {
+        "subject": "airplane",
+        "relation": "right",
+        "object": "person"
+      },
+      {
+        "relation": "below",
+        "subject": "dog",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "above",
+        "object": "car"
+      },
+      {
+        "subject": "banana",
+        "relation": "above",
+        "object": "dog"
+      },
+      {
+        "relation": "below",
+        "subject": "car",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "right",
+        "object": "car"
+      },
+      {
+        "subject": "banana",
+        "relation": "right",
+        "object": "person"
+      },
+      {
+        "relation": "below",
+        "subject": "person",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "above",
+        "object": "chair"
+      },
+      {
+        "subject": "banana",
+        "relation": "above",
+        "object": "cat"
+      },
+      {
+        "relation": "below",
+        "subject": "cat",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "chair",
+          "bigger",
+          "banana"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "right",
+        "object": "cat"
+      },
+      {
+        "subject": "car",
+        "relation": "right",
+        "object": "chair"
+      },
+      {
+        "relation": "below",
+        "subject": "cat",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger",
+          "car",
+          "banana"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "right",
+        "object": "chair"
+      },
+      {
+        "subject": "dog",
+        "relation": "right",
+        "object": "person"
+      },
+      {
+        "relation": "below",
+        "subject": "person",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "right",
+        "object": "airplane"
+      },
+      {
+        "subject": "chair",
+        "relation": "right",
+        "object": "car"
+      },
+      {
+        "relation": "left",
+        "subject": "airplane",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "chair",
+          "bigger",
+          "person"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "right",
+        "object": "banana"
+      },
+      {
+        "subject": "chair",
+        "relation": "right",
+        "object": "person"
+      },
+      {
+        "relation": "above",
+        "subject": "banana",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger",
+          "airplane"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "right",
+        "object": "chair"
+      },
+      {
+        "subject": "airplane",
+        "relation": "right",
+        "object": "dog"
+      },
+      {
+        "relation": "right",
+        "subject": "chair",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "right",
+        "object": "car"
+      },
+      {
+        "subject": "person",
+        "relation": "right",
+        "object": "dog"
+      },
+      {
+        "relation": "below",
+        "subject": "dog",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "right",
+        "object": "banana"
+      },
+      {
+        "subject": "dog",
+        "relation": "right",
+        "object": "car"
+      },
+      {
+        "relation": "above",
+        "subject": "banana",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "smaller than",
+          "bigger than",
+          "airplane",
+          "horse"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "above",
+        "object": "banana"
+      },
+      {
+        "subject": "airplane",
+        "relation": "below",
+        "object": "car"
+      },
+      {
+        "relation": "below",
+        "subject": "banana",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "right",
+        "object": "airplane"
+      },
+      {
+        "subject": "dog",
+        "relation": "right",
+        "object": "banana"
+      },
+      {
+        "relation": "below",
+        "subject": "airplane",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "right",
+        "object": "car"
+      },
+      {
+        "subject": "airplane",
+        "relation": "right",
+        "object": "cat"
+      },
+      {
+        "relation": "below",
+        "subject": "cat",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "chair",
+          "bigger",
+          "person"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "above",
+        "object": "car"
+      },
+      {
+        "subject": "banana",
+        "relation": "below",
+        "object": "dog"
+      },
+      {
+        "relation": "below",
+        "subject": "car",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "right",
+        "object": "chair"
+      },
+      {
+        "subject": "car",
+        "relation": "right",
+        "object": "person"
+      },
+      {
+        "relation": "below",
+        "subject": "chair",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "right",
+        "object": "airplane"
+      },
+      {
+        "subject": "dog",
+        "relation": "right",
+        "object": "chair"
+      },
+      {
+        "relation": "below",
+        "subject": "airplane",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "chair"
+      },
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "dog"
+      },
+      {
+        "relation": "below",
+        "subject": "chair",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "cat",
+        "relation": "above",
+        "object": "airplane"
+      },
+      {
+        "subject": "cat",
+        "relation": "above",
+        "object": "horse"
+      },
+      {
+        "relation": "below",
+        "subject": "airplane",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "chair",
+          "bigger",
+          "car"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "above",
+        "object": "chair"
+      },
+      {
+        "subject": "banana",
+        "relation": "above",
+        "object": "dog"
+      },
+      {
+        "relation": "below",
+        "subject": "chair",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "right",
+        "object": "banana"
+      },
+      {
+        "subject": "dog",
+        "relation": "right",
+        "object": "chair"
+      },
+      {
+        "relation": "above",
+        "subject": "banana",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "banana",
+        "object": "dog"
+      },
+      {
+        "relation": "below",
+        "subject": "banana",
+        "object": "horse"
+      },
+      {
+        "relation": "below",
+        "subject": "dog",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "above",
+        "object": "horse"
+      },
+      {
+        "subject": "car",
+        "relation": "below",
+        "object": "banana"
+      },
+      {
+        "relation": "above",
+        "subject": "horse",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "person",
+          "bigger",
+          "airplane"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "right",
+        "object": "cat"
+      },
+      {
+        "subject": "person",
+        "relation": "right",
+        "object": "chair"
+      },
+      {
+        "relation": "below",
+        "subject": "cat",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "right",
+        "object": "chair"
+      },
+      {
+        "subject": "airplane",
+        "relation": "right",
+        "object": "dog"
+      },
+      {
+        "relation": "below",
+        "subject": "chair",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger",
+          "person",
+          "horse"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "right",
+        "object": "airplane"
+      },
+      {
+        "subject": "chair",
+        "relation": "right",
+        "object": "person"
+      },
+      {
+        "relation": "above",
+        "subject": "airplane",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "above",
+        "object": "dog"
+      },
+      {
+        "subject": "car",
+        "relation": "below",
+        "object": "banana"
+      },
+      {
+        "relation": "below",
+        "subject": "dog",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger",
+          "airplane"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "above",
+        "object": "banana"
+      },
+      {
+        "subject": "airplane",
+        "relation": "below",
+        "object": "dog"
+      },
+      {
+        "relation": "below",
+        "subject": "banana",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "above",
+        "object": "dog"
+      },
+      {
+        "subject": "airplane",
+        "relation": "below",
+        "object": "cat"
+      },
+      {
+        "relation": "below",
+        "subject": "dog",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "above",
+        "object": "horse"
+      },
+      {
+        "subject": "chair",
+        "relation": "above",
+        "object": "person"
+      },
+      {
+        "relation": "below",
+        "subject": "horse",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "right",
+        "object": "cat"
+      },
+      {
+        "subject": "person",
+        "relation": "right",
+        "object": "chair"
+      },
+      {
+        "relation": "right",
+        "subject": "cat",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "than dog",
+          "larger",
+          "than chair"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "right",
+        "object": "banana"
+      },
+      {
+        "subject": "airplane",
+        "relation": "right",
+        "object": "chair"
+      },
+      {
+        "relation": "below",
+        "subject": "banana",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "banana"
+      },
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "chair"
+      },
+      {
+        "relation": "below",
+        "subject": "banana",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "banana"
+      },
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "person"
+      },
+      {
+        "relation": "below",
+        "subject": "banana",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "cat",
+        "relation": "right",
+        "object": "car"
+      },
+      {
+        "subject": "cat",
+        "relation": "right",
+        "object": "horse"
+      },
+      {
+        "relation": "below",
+        "subject": "horse",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "above",
+        "object": "airplane"
+      },
+      {
+        "subject": "chair",
+        "relation": "above",
+        "object": "cat"
+      },
+      {
+        "relation": "above",
+        "subject": "airplane",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "chair",
+          "bigger",
+          "person"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger",
+          "person",
+          "banana"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "right",
+        "object": "car"
+      },
+      {
+        "subject": "chair",
+        "relation": "right",
+        "object": "cat"
+      },
+      {
+        "relation": "below",
+        "subject": "car",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "right",
+        "object": "chair"
+      },
+      {
+        "subject": "banana",
+        "relation": "right",
+        "object": "horse"
+      },
+      {
+        "relation": "below",
+        "subject": "chair",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "right",
+        "object": "cat"
+      },
+      {
+        "subject": "banana",
+        "relation": "right",
+        "object": "horse"
+      },
+      {
+        "relation": "below",
+        "subject": "horse",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "airplane"
+      },
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "cat"
+      },
+      {
+        "relation": "below",
+        "subject": "airplane",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "car"
+      },
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "chair"
+      },
+      {
+        "relation": "below",
+        "subject": "car",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "right",
+        "object": "car"
+      },
+      {
+        "subject": "dog",
+        "relation": "right",
+        "object": "horse"
+      },
+      {
+        "relation": "below",
+        "subject": "car",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger",
+          "person",
+          "banana"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "cat"
+      },
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "person"
+      },
+      {
+        "relation": "below",
+        "subject": "cat",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "above",
+        "object": "dog"
+      },
+      {
+        "subject": "banana",
+        "relation": "below",
+        "object": "chair"
+      },
+      {
+        "relation": "below",
+        "subject": "dog",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "chair",
+          "bigger",
+          "airplane"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "banana",
+        "object": "cat"
+      },
+      {
+        "relation": "above",
+        "subject": "banana",
+        "object": "chair"
+      },
+      {
+        "relation": "below",
+        "subject": "cat",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "above",
+        "object": "horse"
+      },
+      {
+        "subject": "airplane",
+        "relation": "above",
+        "object": "car"
+      },
+      {
+        "relation": "below",
+        "subject": "horse",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger",
+          "person",
+          "car"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "cat",
+        "relation": "right",
+        "object": "banana"
+      },
+      {
+        "subject": "cat",
+        "relation": "right",
+        "object": "person"
+      },
+      {
+        "relation": "below",
+        "subject": "person",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "right",
+        "object": "car"
+      },
+      {
+        "subject": "banana",
+        "relation": "right",
+        "object": "cat"
+      },
+      {
+        "relation": "below",
+        "subject": "car",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "smaller",
+          "larger",
+          "airplane"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "cat",
+          "chair",
+          "bigger",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "chair",
+          "bigger",
+          "airplane"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "right",
+        "object": "chair"
+      },
+      {
+        "subject": "airplane",
+        "relation": "right",
+        "object": "person"
+      },
+      {
+        "relation": "below",
+        "subject": "chair",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "cat"
+      },
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "chair"
+      },
+      {
+        "relation": "above",
+        "subject": "cat",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "right",
+        "object": "banana"
+      },
+      {
+        "subject": "car",
+        "relation": "right",
+        "object": "cat"
+      },
+      {
+        "relation": "above",
+        "subject": "banana",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "cat",
+        "relation": "right",
+        "object": "chair"
+      },
+      {
+        "subject": "cat",
+        "relation": "right",
+        "object": "dog"
+      },
+      {
+        "relation": "below",
+        "subject": "chair",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "car"
+      },
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "dog"
+      },
+      {
+        "relation": "above",
+        "subject": "car",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "above",
+        "object": "cat"
+      },
+      {
+        "subject": "banana",
+        "relation": "below",
+        "object": "airplane"
+      },
+      {
+        "relation": "below",
+        "subject": "cat",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "right",
+        "object": "chair"
+      },
+      {
+        "subject": "person",
+        "relation": "right",
+        "object": "dog"
+      },
+      {
+        "relation": "below",
+        "subject": "dog",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "above",
+        "object": "dog"
+      },
+      {
+        "subject": "car",
+        "relation": "above",
+        "object": "person"
+      },
+      {
+        "relation": "below",
+        "subject": "dog",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "right",
+        "object": "airplane"
+      },
+      {
+        "subject": "chair",
+        "relation": "right",
+        "object": "dog"
+      },
+      {
+        "relation": "above",
+        "subject": "airplane",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "cat"
+      },
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "dog"
+      },
+      {
+        "relation": "below",
+        "subject": "cat",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "above",
+        "object": "cat"
+      },
+      {
+        "subject": "banana",
+        "relation": "above",
+        "object": "chair"
+      },
+      {
+        "relation": "below",
+        "subject": "cat",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "cat",
+          "bigger",
+          "larger",
+          "car"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "right",
+        "object": "banana"
+      },
+      {
+        "subject": "chair",
+        "relation": "right",
+        "object": "person"
+      },
+      {
+        "relation": "above",
+        "subject": "banana",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "than dog",
+          "larger",
+          "than cat"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "right",
+        "object": "chair"
+      },
+      {
+        "subject": "person",
+        "relation": "right",
+        "object": "horse"
+      },
+      {
+        "relation": "below",
+        "subject": "person",
+        "object": "chair, horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "right",
+        "object": "cat"
+      },
+      {
+        "subject": "person",
+        "relation": "right",
+        "object": "horse"
+      },
+      {
+        "relation": "below",
+        "subject": "cat",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger",
+          "person",
+          "car"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "airplane"
+      },
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "car"
+      },
+      {
+        "relation": "above",
+        "subject": "airplane",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "above",
+        "object": "chair"
+      },
+      {
+        "subject": "airplane",
+        "relation": "above",
+        "object": "person"
+      },
+      {
+        "relation": "below",
+        "subject": "chair",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "above",
+        "object": "airplane"
+      },
+      {
+        "subject": "banana",
+        "relation": "below",
+        "object": "dog"
+      },
+      {
+        "relation": "below",
+        "subject": "airplane",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "right",
+        "object": "cat"
+      },
+      {
+        "subject": "person",
+        "relation": "right",
+        "object": "chair"
+      },
+      {
+        "relation": "below",
+        "subject": "cat",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "right",
+        "object": "banana"
+      },
+      {
+        "subject": "airplane",
+        "relation": "right",
+        "object": "chair"
+      },
+      {
+        "relation": "above",
+        "subject": "banana",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "above",
+        "object": "dog"
+      },
+      {
+        "subject": "airplane",
+        "relation": "below",
+        "object": "chair"
+      },
+      {
+        "relation": "below",
+        "subject": "dog",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "person",
+          "bigger",
+          "airplane"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger",
+          "airplane",
+          "horse"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "right",
+        "object": "cat"
+      },
+      {
+        "subject": "person",
+        "relation": "right",
+        "object": "dog"
+      },
+      {
+        "relation": "below",
+        "subject": "cat",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger",
+          "person",
+          "banana"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "above",
+        "object": "banana"
+      },
+      {
+        "subject": "car",
+        "relation": "above",
+        "object": "horse"
+      },
+      {
+        "relation": "left",
+        "subject": "banana",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "person",
+          "larger",
+          "airplane"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "car"
+      },
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "cat"
+      },
+      {
+        "relation": "below",
+        "subject": "car",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "right",
+        "object": "car"
+      },
+      {
+        "subject": "dog",
+        "relation": "right",
+        "object": "person"
+      },
+      {
+        "relation": "below",
+        "subject": "car",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "banana",
+        "object": "cat"
+      },
+      {
+        "relation": "above",
+        "subject": "banana",
+        "object": "person"
+      },
+      {
+        "relation": "below",
+        "subject": "cat",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "right",
+        "object": "banana"
+      },
+      {
+        "subject": "dog",
+        "relation": "right",
+        "object": "person"
+      },
+      {
+        "relation": "below",
+        "subject": "banana",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "chair",
+          "bigger",
+          "airplane"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger",
+          "car",
+          "person"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "above",
+        "object": "cat"
+      },
+      {
+        "subject": "banana",
+        "relation": "above",
+        "object": "chair"
+      },
+      {
+        "relation": "below",
+        "subject": "cat",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "above",
+        "object": "chair"
+      },
+      {
+        "subject": "airplane",
+        "relation": "above",
+        "object": "horse"
+      },
+      {
+        "relation": "below",
+        "subject": "chair",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "banana",
+        "object": "horse"
+      },
+      {
+        "relation": "right",
+        "subject": "banana",
+        "object": "person"
+      },
+      {
+        "relation": "right",
+        "subject": "horse",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "chair",
+          "larger",
+          "person"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "above",
+        "object": "airplane"
+      },
+      {
+        "subject": "horse",
+        "relation": "above",
+        "object": "banana"
+      },
+      {
+        "relation": "above",
+        "subject": "airplane",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "cat",
+          "bigger",
+          "person"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "above",
+        "object": "person"
+      },
+      {
+        "subject": "car",
+        "relation": "above",
+        "object": "horse"
+      },
+      {
+        "relation": "below",
+        "subject": "person",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "chair",
+          "bigger",
+          "airplane"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "right",
+        "object": "car"
+      },
+      {
+        "subject": "banana",
+        "relation": "right",
+        "object": "person"
+      },
+      {
+        "relation": "below",
+        "subject": "car",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "banana"
+      },
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "chair"
+      },
+      {
+        "relation": "above",
+        "subject": "banana",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "cat",
+          "bigger",
+          "banana"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "right",
+        "object": "car"
+      },
+      {
+        "subject": "airplane",
+        "relation": "right",
+        "object": "cat"
+      },
+      {
+        "relation": "above",
+        "subject": "car",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "cat",
+          "bigger",
+          "person",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "right",
+        "object": "airplane"
+      },
+      {
+        "subject": "dog",
+        "relation": "right",
+        "object": "banana"
+      },
+      {
+        "relation": "below",
+        "subject": "airplane",
+        "object": "banana"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "above",
+        "object": "dog"
+      },
+      {
+        "subject": "banana",
+        "relation": "below",
+        "object": "horse"
+      },
+      {
+        "relation": "below",
+        "subject": "dog",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "banana"
+      },
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "person"
+      },
+      {
+        "relation": "right",
+        "subject": "banana",
+        "object": "person"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger",
+          "person",
+          "banana"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "cat",
+          "larger",
+          "horse"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "cat",
+        "relation": "right",
+        "object": "chair"
+      },
+      {
+        "subject": "cat",
+        "relation": "right",
+        "object": "horse"
+      },
+      {
+        "relation": "below",
+        "subject": "chair",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger",
+          "airplane",
+          "horse"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "banana"
+      },
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "chair"
+      },
+      {
+        "relation": "below",
+        "subject": "banana",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "larger"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "airplane",
+        "object": "car"
+      },
+      {
+        "relation": "above",
+        "subject": "airplane",
+        "object": "dog"
+      },
+      {
+        "relation": "below",
+        "subject": "car",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "dog",
+          "bigger",
+          "person",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "dog",
+        "relation": "right",
+        "object": "airplane"
+      },
+      {
+        "subject": "dog",
+        "relation": "right",
+        "object": "horse"
+      },
+      {
+        "relation": "below",
+        "subject": "horse",
+        "object": "airplane"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "above",
+        "object": "dog"
+      },
+      {
+        "subject": "horse",
+        "relation": "above",
+        "object": "car"
+      },
+      {
+        "relation": "below",
+        "subject": "dog",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "above",
+        "object": "horse"
+      },
+      {
+        "subject": "banana",
+        "relation": "above",
+        "object": "dog"
+      },
+      {
+        "relation": "below",
+        "subject": "horse",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "right",
+        "object": "car"
+      },
+      {
+        "subject": "chair",
+        "relation": "right",
+        "object": "horse"
+      },
+      {
+        "relation": "below",
+        "subject": "car",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger",
+          "dog",
+          "airplane"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "above",
+        "object": "airplane"
+      },
+      {
+        "subject": "car",
+        "relation": "above",
+        "object": "dog"
+      },
+      {
+        "relation": "above",
+        "subject": "airplane",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger",
+          "car",
+          "person"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "banana",
+        "relation": "above",
+        "object": "car"
+      },
+      {
+        "subject": "banana",
+        "relation": "above",
+        "object": "dog"
+      },
+      {
+        "relation": "below",
+        "subject": "car",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "chair",
+        "relation": "right",
+        "object": "car"
+      },
+      {
+        "subject": "chair",
+        "relation": "right",
+        "object": "person"
+      },
+      {
+        "relation": "below",
+        "subject": "person",
+        "object": "car"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "cat"
+      },
+      {
+        "subject": "horse",
+        "relation": "right",
+        "object": "dog"
+      },
+      {
+        "relation": "right",
+        "subject": "cat",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger",
+          "person",
+          "horse"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "cat",
+          "dog",
+          "larger",
+          "airplane"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger than",
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger",
+          "airplane"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger than",
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger than",
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger",
+          "person"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "right",
+        "object": "car"
+      },
+      {
+        "subject": "person",
+        "relation": "right",
+        "object": "cat"
+      },
+      {
+        "subject": "person",
+        "relation": "right",
+        "object": "chair"
+      },
+      {
+        "relation": "above",
+        "subject": "car",
+        "object": "cat"
+      },
+      {
+        "relation": "below",
+        "subject": "car",
+        "object": "chair"
+      },
+      {
+        "relation": "below",
+        "subject": "cat",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "larger than",
+          "larger",
+          "bigger",
+          "bigger than"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": [
+          "smaller"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "above",
+        "subject": "airplane",
+        "object": "banana"
+      },
+      {
+        "relation": "above",
+        "subject": "airplane",
+        "object": "cat"
+      },
+      {
+        "relation": "above",
+        "subject": "airplane",
+        "object": "chair"
+      },
+      {
+        "relation": "above",
+        "subject": "banana",
+        "object": "cat"
+      },
+      {
+        "relation": "above",
+        "subject": "banana",
+        "object": "chair"
+      },
+      {
+        "relation": "below",
+        "subject": "cat",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger",
+          "bigger than"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger than",
+          "larger",
+          "bigger",
+          "bigger than"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger than",
+          "larger",
+          "bigger",
+          "bigger than"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "chair",
+          "horse",
+          "larger",
+          "airplane"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "larger than",
+          "larger",
+          "bigger",
+          "bigger than"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger",
+          "bigger than"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "horse",
+          "bigger",
+          "airplane",
+          "banana"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "dog",
+          "horse",
+          "larger",
+          "banana"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "cat",
+          "bigger",
+          "airplane",
+          "car"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger than",
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "larger than",
+          "larger",
+          "bigger",
+          "bigger than"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger than",
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger",
+          "bigger than"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "left",
+        "object": "cat"
+      },
+      {
+        "subject": "person",
+        "relation": "left",
+        "object": "dog"
+      },
+      {
+        "subject": "person",
+        "relation": "left",
+        "object": "horse"
+      },
+      {
+        "relation": "above",
+        "subject": "cat",
+        "object": "dog"
+      },
+      {
+        "relation": "below",
+        "subject": "cat",
+        "object": "horse"
+      },
+      {
+        "relation": "below",
+        "subject": "dog",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger than",
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger than",
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger than",
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger",
+          "bigger than"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "smaller",
+          "larger",
+          "airplane"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "larger than",
+          "larger",
+          "bigger",
+          "bigger than"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger",
+          "bigger than"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger than",
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "cat",
+          "chair",
+          "bigger",
+          "airplane"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger",
+          "bigger than"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "cat",
+          "dog",
+          "horse",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "chair",
+          "horse",
+          "larger",
+          "banana"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "above",
+        "object": "banana"
+      },
+      {
+        "subject": "airplane",
+        "relation": "above",
+        "object": "cat"
+      },
+      {
+        "subject": "airplane",
+        "relation": "above",
+        "object": "horse"
+      },
+      {
+        "relation": "above",
+        "subject": "banana",
+        "object": "cat"
+      },
+      {
+        "relation": "below",
+        "subject": "banana",
+        "object": "horse"
+      },
+      {
+        "relation": "below",
+        "subject": "cat",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "car",
+        "relation": "above",
+        "object": "banana"
+      },
+      {
+        "subject": "car",
+        "relation": "above",
+        "object": "cat"
+      },
+      {
+        "subject": "car",
+        "relation": "above",
+        "object": "horse"
+      },
+      {
+        "relation": "above",
+        "subject": "banana",
+        "object": "cat"
+      },
+      {
+        "relation": "above",
+        "subject": "banana",
+        "object": "horse"
+      },
+      {
+        "relation": "below",
+        "subject": "cat",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger than",
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "above",
+        "object": "cat"
+      },
+      {
+        "subject": "airplane",
+        "relation": "above",
+        "object": "chair"
+      },
+      {
+        "subject": "airplane",
+        "relation": "above",
+        "object": "dog"
+      },
+      {
+        "relation": "below",
+        "subject": "cat",
+        "object": "chair"
+      },
+      {
+        "relation": "below",
+        "subject": "cat",
+        "object": "dog"
+      },
+      {
+        "relation": "below",
+        "subject": "chair",
+        "object": "dog"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger",
+          "bigger than"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "horse",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "right",
+        "object": "airplane"
+      },
+      {
+        "subject": "person",
+        "relation": "right",
+        "object": "dog"
+      },
+      {
+        "subject": "person",
+        "relation": "right",
+        "object": "horse"
+      },
+      {
+        "relation": "above",
+        "subject": "airplane",
+        "object": "dog"
+      },
+      {
+        "relation": "above",
+        "subject": "airplane",
+        "object": "horse"
+      },
+      {
+        "relation": "below",
+        "subject": "dog",
+        "object": "horse"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "bigger"
+        ]
+      },
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "relation": "below",
+        "subject": "airplane",
+        "object": "car"
+      },
+      {
+        "relation": "below",
+        "subject": "airplane",
+        "object": "cat"
+      },
+      {
+        "relation": "below",
+        "subject": "airplane",
+        "object": "person"
+      },
+      {
+        "relation": "below",
+        "subject": "cat",
+        "object": "car"
+      },
+      {
+        "relation": "above",
+        "subject": "person",
+        "object": "car"
+      },
+      {
+        "relation": "below",
+        "subject": "person",
+        "object": "cat"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "cat",
+          "smaller",
+          "chair",
+          "larger",
+          "airplane",
+          "banana"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "dog",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "person",
+        "relation": "left",
+        "object": "cat"
+      },
+      {
+        "subject": "person",
+        "relation": "left",
+        "object": "chair"
+      },
+      {
+        "subject": "person",
+        "relation": "left",
+        "object": "dog"
+      },
+      {
+        "relation": "below",
+        "subject": "cat",
+        "object": "chair"
+      },
+      {
+        "relation": "below",
+        "subject": "cat",
+        "object": "dog"
+      },
+      {
+        "relation": "below",
+        "subject": "dog",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger than",
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      },
+      {
+        "head": "banana",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": []
+      },
+      {
+        "head": "chair",
+        "quantity": "",
+        "attributes": []
+      }
+    ],
+    "relations": [
+      {
+        "subject": "airplane",
+        "relation": "above",
+        "object": "banana"
+      },
+      {
+        "subject": "airplane",
+        "relation": "above",
+        "object": "cat"
+      },
+      {
+        "subject": "airplane",
+        "relation": "below",
+        "object": "chair"
+      },
+      {
+        "relation": "below",
+        "subject": "banana",
+        "object": "cat"
+      },
+      {
+        "relation": "below",
+        "subject": "banana",
+        "object": "chair"
+      },
+      {
+        "relation": "below",
+        "subject": "cat",
+        "object": "chair"
+      }
+    ]
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger",
+          "bigger than"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger",
+          "bigger than"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger than",
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "cat",
+          "chair",
+          "larger",
+          "airplane"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger",
+          "bigger than"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger",
+          "bigger than"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger",
+          "bigger than"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger than",
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "cat",
+          "dog",
+          "bigger",
+          "airplane"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "larger than",
+          "larger",
+          "bigger",
+          "bigger than"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger",
+          "bigger than"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "cat",
+        "quantity": "",
+        "attributes": [
+          "larger than",
+          "larger",
+          "bigger",
+          "bigger than"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "chair",
+          "bigger",
+          "airplane",
+          "banana"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "cat",
+          "dog",
+          "larger",
+          "banana"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger than",
+          "larger",
+          "bigger",
+          "bigger than"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger",
+          "bigger than"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "airplane",
+        "quantity": "",
+        "attributes": [
+          "cat",
+          "smaller",
+          "chair",
+          "larger",
+          "airplane",
+          "banana"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "larger than",
+          "larger",
+          "bigger",
+          "bigger than"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger than",
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "chair",
+          "horse",
+          "bigger",
+          "airplane"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger than",
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "cat",
+          "larger",
+          "airplane",
+          "banana"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "cat",
+          "smaller",
+          "horse",
+          "bigger",
+          "car"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "larger",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "than",
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "car",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "cat",
+          "dog",
+          "larger",
+          "airplane"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "larger"
+        ]
+      }
+    ],
+    "relations": []
+  },
+  {
+    "entities": [
+      {
+        "head": "person",
+        "quantity": "",
+        "attributes": [
+          "smaller",
+          "bigger"
+        ]
+      }
+    ],
+    "relations": []
+  }
+]
