@@ -74,7 +74,7 @@ python testing.py \
 ```bibtex
 @INPROCEEDINGS{jayasekara2026all,
   author={Jayasekara, Hirunima and Huynh, Chuong and Ren, Yixuan and Acquaye, Christabel and Shrivastava, Abhinav},
-  booktitle={2026 International Conference on Pattern Recognition (ICPR)}, 
+  booktitle={International Conference on Pattern Recognition (ICPR)}, 
   title={All-in-One Conditioning for Text-to-Image Synthesis}, 
   year={2026},
   volume={},
